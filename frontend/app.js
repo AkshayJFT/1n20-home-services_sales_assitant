@@ -43,6 +43,8 @@ const AppState = {
     chatAudioQueue: [],        // Queue for chat audio chunks
     presentationPausedForChat: false, // Track if we paused presentation for chat audio
     isChatActive: false,       // Block ALL presentation audio when chat is active
+    chatImageTimers: [],       // Timers for cycling chat reference images
+    chatAudioDuration: 0,      // Duration of current chat audio
 };
 
 // ============================================================================
@@ -1228,6 +1230,36 @@ function scheduleImageChanges() {
     }
 }
 
+// Schedule chat reference image changes based on chat audio duration
+function scheduleChatImageChanges(audioDuration) {
+    clearChatImageTimers();
+
+    const images = AppState.currentImages;
+    if (images.length <= 1) return;
+
+    const effectiveDuration = audioDuration / AppState.presentationSpeed;
+    const msPerImage = (effectiveDuration * 1000) / images.length;
+
+    console.log(`[Chat Images] Scheduling ${images.length} images, ${msPerImage.toFixed(0)}ms each`);
+
+    for (let i = 1; i < images.length; i++) {
+        const timer = setTimeout(() => {
+            if (AppState.isChatAudioPlaying) {
+                AppState.currentImageIndex = i;
+                displayImage(AppState.currentImages[i], i);
+                console.log(`[Chat Images] Showing image ${i + 1}/${images.length}`);
+            }
+        }, msPerImage * i);
+
+        AppState.chatImageTimers.push(timer);
+    }
+}
+
+function clearChatImageTimers() {
+    AppState.chatImageTimers.forEach(timer => clearTimeout(timer));
+    AppState.chatImageTimers = [];
+}
+
 function onAudioTimeUpdate() {}
 
 function onAudioEnded() {
@@ -1537,8 +1569,8 @@ function displayReferenceImagesInPanel(references) {
     AppState.referenceImages = allImages;
     AppState.currentImageIndex = 0;
 
-    updateThumbnails();
-    displayImagesGrid(AppState.currentImages, 0);
+    // Display first image only (one-by-one, timed by chat audio duration)
+    displayImage(AppState.currentImages[0], 0);
 
     elements.imageCounter.textContent = `${allImages.length} image${allImages.length > 1 ? 's' : ''} from references`;
     elements.imageCounter.style.opacity = '1';
@@ -1847,6 +1879,18 @@ async function speakChatResponse(text, messageElement = null) {
             AppState.currentChatMessage = messageElement;
             AppState.currentChatText = text;
 
+            // Get audio duration and schedule image changes when metadata loads
+            elements.chatAudioPlayer.onloadedmetadata = () => {
+                const duration = elements.chatAudioPlayer.duration;
+                AppState.chatAudioDuration = duration;
+                console.log(`[Chat TTS] Audio duration: ${duration.toFixed(2)}s`);
+
+                // Schedule image cycling if we have reference images
+                if (AppState.currentImages.length > 1) {
+                    scheduleChatImageChanges(duration);
+                }
+            };
+
             elements.chatAudioPlayer.play();
             // isChatAudioPlaying already set at start of function
             console.log('[Chat TTS] Playing response');
@@ -1870,6 +1914,7 @@ function stopChatAudio() {
         elements.chatAudioPlayer.currentTime = 0;
         AppState.isChatAudioPlaying = false;
         AppState.isChatActive = false;
+        clearChatImageTimers();
         console.log('[Chat TTS] Stopped - chat inactive');
     }
 }
@@ -1881,6 +1926,7 @@ function onChatAudioEnded() {
     AppState.currentChatMessage = null;
     AppState.currentChatText = '';
     AppState.presentationPausedForChat = false;
+    clearChatImageTimers();
     console.log('[Chat TTS] Finished - user can click play to resume presentation');
     // NO auto-resume - user must click play button to continue presentation
 }
@@ -1892,6 +1938,7 @@ function onChatAudioError(e) {
     AppState.isChatActive = false;
     AppState.currentChatMessage = null;
     AppState.currentChatText = '';
+    clearChatImageTimers();
 }
 
 // Toggle chat voice mute
