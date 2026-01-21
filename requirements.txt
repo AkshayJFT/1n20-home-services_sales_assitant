@@ -1,0 +1,11 @@
+PyMuPDF
+opencv-python
+numpy
+Pillow
+openai
+groq
+python-dotenv
+fastapi
+uvicorn[standard]
+websockets
+python-multipart

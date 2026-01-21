@@ -1,0 +1,432 @@
+{
+  "title": "Mezzo Windows by Alside Brochure",
+  "document_type": "brochure/catalog",
+  "sections": [
+    {
+      "title": "Mezzo Brand Introduction",
+      "content": "Welcome to the world of Mezzo by Alside, where timeless aesthetics meet cutting‑edge technology to redefine residential living. Our signature arched‑top windows, finished in elegant white or cream, create sweeping frames that invite natural light and breathtaking views into any upscale home. Designed for discerning homeowners, Mezzo windows blend architectural drama with seamless performance, delivering energy efficiency without compromising style. Whether placed in a sun‑filled dining room or a curved lounge, each installation transforms ordinary spaces into luxurious retreats that reflect your personal taste and the beauty of the outdoors.",
+      "selected_images": [
+        {
+          "path": "output/images/page_1_img_1.png",
+          "reason": "Shows a sunroom with floor‑to‑ceiling arched Mezzo windows, highlighting the brand’s elegant finish and the way the windows frame a lush outdoor landscape."
+        },
+        {
+          "path": "output/images/page_2_img_1.png",
+          "reason": "Depicts a curved residential room with multiple Mezzo windows, emphasizing natural light, expansive views, and the upscale interior setting the brand embodies."
+        }
+      ],
+      "key_takeaways": [
+        "Mezzo combines high‑end design with advanced window technology for upscale homes.",
+        "The brand’s arched, white/cream windows create dramatic, light‑filled spaces that enhance any luxurious residential interior."
+      ],
+      "source_pages": [
+        1,
+        2
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_1_img_1.png",
+        "output/images/page_2_img_1.png"
+      ]
+    },
+    {
+      "title": "Alside Company Overview & History",
+      "content": "For more than seven decades, Alside has been a trusted name in the window and door industry, building a legacy of American craftsmanship and reliable performance. Founded on the principle that quality products create happy homes, the company has grown from a small family workshop into a nationwide leader while keeping its commitment to Made‑in‑America manufacturing. Throughout its history, Alside has continuously invested in advanced engineering and energy‑efficient designs, ensuring every window—like the elegant Mezzo line—delivers both style and lasting durability. This dedication to innovation and customer satisfaction has earned generations of homeowners confidence that their homes are protected, beautiful, and comfortable.",
+      "selected_images": [
+        {
+          "path": "output/images/page_3_img_1.png",
+          "reason": "Shows a happy dog looking out a window, illustrating the comfort and quality of Alside windows in everyday life."
+        },
+        {
+          "path": "output/images/page_3_img_2.png",
+          "reason": "Highlights the Mezzo Windows installed in an elegant living‑room setting, demonstrating the aesthetic appeal and natural light they provide."
+        }
+      ],
+      "key_takeaways": [
+        "Over 70 years of industry excellence rooted in American craftsmanship.",
+        "A steadfast focus on customer happiness and long‑lasting product performance."
+      ],
+      "source_pages": [
+        3
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_3_img_1.png",
+        "output/images/page_3_img_2.png"
+      ]
+    },
+    {
+      "title": "Proprietary Technologies & Innovation",
+      "content": "Our Mezzo window system blends cutting‑edge engineering with elegant design. The EdgeForce narrow‑line frame maximizes glass area for brighter interiors while internal chambers and the CoreFX composite reinforcement keep heat loss to a minimum and provide a rock‑solid mounting surface for hardware. Security is built in with Defense‑Tek’s cam‑shift locking action and a visual unlock indicator, and the Gatekeeper sash‑to‑sill interlock, Forecaster sloped sill, and HP3 telescoping sill work together to keep out air, water, and pests. Fusion‑welded corners and dual‑pane, double‑strength glass add strength and insulation, while hidden screen tracks preserve a clean‑line aesthetic. Together, these proprietary technologies deliver a window that looks beautiful, performs exceptionally, and protects your home for years to come.",
+      "selected_images": [
+        {
+          "path": "output/images/page_4_img_1.png",
+          "reason": "Shows the internal construction of the EdgeForce frame, CoreFX reinforcement, and sill technologies described in the text."
+        },
+        {
+          "path": "output/images/page_4_img_2.png",
+          "reason": "Illustrates the optional frame configurations and triple‑pane glass option that enhance customization and energy efficiency."
+        },
+        {
+          "path": "output/images/page_5_img_2.png",
+          "reason": "Provides detailed cross‑section diagrams of fusion‑welded corners, dual‑pane glass, insulating chambers, and other key construction features."
+        }
+      ],
+      "key_takeaways": [
+        "EdgeForce frame delivers larger glass area and superior thermal performance.",
+        "CoreFX reinforcement offers non‑conductive strength for secure hardware mounting.",
+        "Defense‑Tek locking system and Gatekeeper interlock provide top‑tier security and weather protection.",
+        "Fusion‑welded corners, dual‑pane glass, and insulated chambers ensure durability and energy efficiency."
+      ],
+      "source_pages": [
+        4,
+        5
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_4_img_1.png",
+        "output/images/page_4_img_2.png",
+        "output/images/page_5_img_2.png"
+      ]
+    },
+    {
+      "title": "Energy Efficiency & Glass Packages",
+      "content": "Mezzo Windows are ENERGY STAR certified, meaning they meet the strict U‑Factor and Solar Heat Gain Coefficient (SHGC) requirements set by the EPA and DOE for each U.S. climate zone. A lower U‑Factor reduces the heat that escapes your home in winter, while a lower SHGC keeps out unwanted solar heat in summer, translating into noticeable savings on heating and cooling bills. Our ClimaTech package pairs Low‑E glass with argon gas and an Intercept Warm‑Edge spacer to reflect warmth back inside during cold months and block heat during hot months. For the ultimate thermal barrier, ClimaTech ThermD upgrades to a stainless‑steel Intercept spacer, delivering the best U‑Factor performance in the lineup. Additionally, the enhanced cavity foam option uses graphite‑infused EPS to further insulate the window cavity, ensuring consistent comfort no matter which ENERGY STAR climate zone you live in.",
+      "selected_images": [
+        {
+          "path": "output/images/page_6_img_2.png",
+          "reason": "Illustrates how Low‑E glass reflects heat in winter and blocks solar gain in summer, reinforcing the energy‑saving benefits described."
+        },
+        {
+          "path": "output/images/page_6_img_3.png",
+          "reason": "Shows the graphite‑infused EPS enhanced cavity foam, highlighting the extra insulation option for superior thermal performance."
+        },
+        {
+          "path": "output/images/page_7_img_1.png",
+          "reason": "Depicts the four ENERGY STAR climate zones across the United States, helping customers understand regional certification requirements."
+        }
+      ],
+      "key_takeaways": [
+        "ENERGY STAR certification guarantees that Mezzo windows meet rigorous U‑Factor and SHGC standards for your climate zone.",
+        "ClimaTech and ClimaTech ThermD glass packages use Low‑E coatings, argon gas, and advanced warm‑edge spacers for year‑round energy savings.",
+        "Enhanced cavity foam with graphite‑infused EPS adds an extra layer of insulation, further reducing heat loss."
+      ],
+      "source_pages": [
+        6,
+        7
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_6_img_2.png",
+        "output/images/page_6_img_3.png",
+        "output/images/page_7_img_1.png"
+      ]
+    },
+    {
+      "title": "FrameWorks Color Collection",
+      "content": "Discover the vibrant world of Mezzo’s FrameWorks Color Collection, featuring 13 exterior polyurethane‑coated colors that combine heat‑reflective pigments with a fade‑resistant finish for lasting curb appeal. Inside, choose from 9 premium wood‑grain laminate interiors—ranging from classic White Woodgrain to rich Cherry—engineered for durability and a natural look. Each exterior shade, from bold Black to warm Desert Clay, is paired with hardware options that complement your design, while interior finishes can be matched with Pontiac Gold, Brown, or a coordinating tone. Whether you’re updating a modern patio door or a traditional window, the collection offers flexible style choices that enhance both performance and aesthetics.",
+      "selected_images": [
+        {
+          "path": "output/images/page_16_img_1.png",
+          "reason": "Displays all 13 exterior color swatches, helping customers visualize the full range of polyurethane‑coated options."
+        },
+        {
+          "path": "output/images/page_16_img_2.png",
+          "reason": "Shows the 9 interior wood‑grain laminate finishes, illustrating the variety of wood‑grain patterns and solid colors available."
+        }
+      ],
+      "key_takeaways": [
+        "13 exterior colors feature heat‑reflective, fade‑resistant polyurethane coating.",
+        "9 interior wood‑grain laminates provide durable, natural‑looking finishes.",
+        "Hardware colors can be matched to interior selections for a cohesive look."
+      ],
+      "source_pages": [
+        16
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_16_img_1.png",
+        "output/images/page_16_img_2.png"
+      ]
+    },
+    {
+      "title": "Design & Customization – Grids & TrimWorks",
+      "content": "Our windows let you personalize every view with a full suite of decorative grid patterns—from classic Colonial to modern Double Prairie—available in flat or contoured profiles and a palette of finishes that match woodgrain or contemporary colors. All grids are sealed inside the insulated glass unit, so cleaning is a breeze and performance isn’t compromised. Add a touch of timeless elegance with V‑grooved cut‑glass options or choose simulated divided lites for historic charm without sacrificing modern energy efficiency. Finally, the TrimWorks exterior trim system offers flat casing or brickmould options, providing a weathertight, finished look that integrates seamlessly with any façade.",
+      "selected_images": [
+        {
+          "path": "output/images/page_17_img_1.png",
+          "reason": "Shows the five decorative grid pattern styles (Colonial, Diamond, Craftsman, Prairie, Double Prairie) referenced in the content."
+        },
+        {
+          "path": "output/images/page_17_img_3.png",
+          "reason": "Illustrates the two V‑grooved cut‑glass patterns (Colonial and Prairie) that add classic detail to windows."
+        },
+        {
+          "path": "output/images/page_17_img_4.png",
+          "reason": "Displays the TrimWorks exterior trim system options (Flat Casing and Brickmould) for a clean, weathertight installation."
+        }
+      ],
+      "key_takeaways": [
+        "Choose from multiple grid patterns, profiles, and finishes for a truly customized look.",
+        "Grids are sealed inside the IGU for effortless cleaning and lasting performance.",
+        "V‑groove cut glass and simulated divided lites blend historic aesthetics with modern energy efficiency.",
+        "TrimWorks exterior trim provides flat casing or brickmould options for a seamless, weather‑tight finish."
+      ],
+      "source_pages": [
+        17
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_17_img_1.png",
+        "output/images/page_17_img_3.png",
+        "output/images/page_17_img_4.png"
+      ]
+    },
+    {
+      "title": "Lifetime Limited Warranty",
+      "content": "Alside backs every Mezzo Window with a Lifetime Limited Warranty, giving homeowners confidence that their investment will perform for the life of the home. If a glass pane breaks, an optional glass‑breakage warranty can be added for extra peace of mind, covering repair or replacement costs. The FrameWorks Color Collection exterior finishes also include a 10‑year fade‑resistance warranty, so the beautiful color you choose stays vibrant year after year. These warranties are backed by industry‑recognized certifications, reinforcing Alside’s commitment to quality and durability. With this comprehensive protection, you can enjoy energy‑smart, weathertight windows without worrying about unexpected repair expenses.",
+      "selected_images": [
+        {
+          "path": "output/images/page_18_img_1.png",
+          "reason": "Shows a happy family enjoying their home, illustrating the peace of mind and long‑term confidence the warranty provides."
+        }
+      ],
+      "key_takeaways": [
+        "Lifetime Limited Warranty covers Mezzo Windows for the life of the product.",
+        "Optional glass‑breakage warranty adds extra protection against accidental breakage.",
+        "FrameWorks Color Collection finishes include a 10‑year fade‑resistance guarantee."
+      ],
+      "source_pages": [
+        18
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_18_img_1.png",
+        "output/images/page_18_img_2.png"
+      ]
+    },
+    {
+      "title": "Sustainability & Eco‑Friendly Practices",
+      "content": "Alside’s Mezzo Windows are designed with the planet in mind, featuring energy‑smart construction that helps homeowners cut heating and cooling costs while reducing their carbon footprint. Nearly all in‑plant vinyl scrap is collected and recycled into new, useful products, turning waste into value. The core vinyl resin is derived largely from common salt, a naturally abundant resource that lowers reliance on petroleum‑based materials. Together with a Lifetime Limited Warranty and AAMA/IGCC certifications, these eco‑focused choices give families peace of mind and a greener home environment.",
+      "selected_images": [
+        {
+          "path": "output/images/page_18_img_1.png",
+          "reason": "Shows a happy family enjoying a sunlit home, illustrating the emotional benefit of choosing Alside’s eco‑friendly windows."
+        }
+      ],
+      "key_takeaways": [
+        "Virtually all vinyl scrap is recycled, minimizing waste.",
+        "Vinyl resin is sourced primarily from common salt, a sustainable natural resource.",
+        "Energy‑smart design reduces household energy consumption and emissions."
+      ],
+      "source_pages": [
+        18
+      ],
+      "is_product_section": false,
+      "images": [
+        "output/images/page_18_img_1.png",
+        "output/images/page_18_img_2.png"
+      ]
+    },
+    {
+      "title": "Mezzo Double‑Hung Windows",
+      "content": "The Mezzo Double‑Hung line blends timeless style with modern engineering, offering a narrow‑line frame that showcases clean, elegant lines in any room. Both sashes tilt in, so you can clean the glass from inside the home without ladders or tools. A constant‑force balance system eliminates cords, weights and pulleys, delivering smooth, effortless operation while the fusion‑welded corners add strength and improve energy efficiency. Integrated sash‑to‑sill interlock and a true sloped sill keep the window sealed against wind and rain, and the non‑conductive composite reinforcement in the meeting rails further boosts thermal performance. For units wider than 48\" or taller than 84\", the base model upgrades to steel reinforcement (ST) for added durability.",
+      "selected_images": [
+        {
+          "path": "output/images/page_8_img_1.png",
+          "reason": "Shows the Mezzo double‑hung windows framing a bright interior, illustrating the classic look and natural light they provide."
+        },
+        {
+          "path": "output/images/page_8_img_2.png",
+          "reason": "Depicts the tilt‑in sash feature in everyday use, highlighting the easy‑clean benefit for families."
+        }
+      ],
+      "key_takeaways": [
+        "Tilt‑in sashes make interior cleaning simple and safe.",
+        "Constant‑force balance ensures smooth, cord‑free operation.",
+        "Narrowline frames with fusion‑welded corners deliver strength and energy efficiency.",
+        "Integrated interlock and sloped sill protect against wind, rain, and water intrusion."
+      ],
+      "source_pages": [
+        8,
+        9
+      ],
+      "is_product_section": true,
+      "images": [
+        "output/images/page_8_img_1.png",
+        "output/images/page_8_img_2.png"
+      ]
+    },
+    {
+      "title": "Mezzo Sliding Windows",
+      "content": "The Mezzo Sliding Windows combine a sleek, slim silhouette with a generous glass area, letting natural light flood your living spaces while maintaining a modern aesthetic. Both sashes glide horizontally on a nylon‑encased dual brass roller system, delivering a whisper‑quiet, effortless operation that feels premium every time you open or close them. When it’s time to clean, each sash lifts out completely, giving you safe, hassle‑free access to both interior and exterior glass surfaces. Built with heavy‑duty, weathertight construction—including fusion‑welded corners, multi‑chambered frames, and a warm‑edge insulated glass unit—these windows provide superior energy efficiency and year‑round comfort.",
+      "selected_images": [
+        {
+          "path": "output/images/page_10_img_1.png",
+          "reason": "Shows the Mezzo Sliding Windows in a living‑room setting, highlighting the slim silhouette and the abundance of natural light they deliver."
+        },
+        {
+          "path": "output/images/page_10_img_2.png",
+          "reason": "Demonstrates the smooth horizontal sliding action and the lift‑out cleaning feature, reinforcing the ease of operation."
+        }
+      ],
+      "key_takeaways": [
+        "Slim silhouette maximizes glass area for bright, open interiors.",
+        "Horizontal sliding sashes glide effortlessly on a dual brass roller system.",
+        "Lift‑out sashes provide safe, convenient cleaning of both sides of the glass.",
+        "Heavy‑duty, weathertight construction ensures durability, energy efficiency, and year‑round comfort."
+      ],
+      "source_pages": [
+        10
+      ],
+      "is_product_section": true,
+      "images": [
+        "output/images/page_10_img_1.png",
+        "output/images/page_10_img_2.png"
+      ]
+    },
+    {
+      "title": "Mezzo Picture Windows & Special Shapes",
+      "content": "Mezzo’s Picture Windows and Special‑Shape collection delivers breathtaking, unobstructed views thanks to ultra‑slim narrowline frames with fusion‑welded corners that combine elegant beauty with exceptional strength. Each window is built around a high‑performance insulated glass unit featuring double‑strength glass, a warm‑edge spacer and multi‑chambered construction, creating airtight compartments that keep out harsh weather while reducing energy loss. Whether you choose a classic rectangular picture window or a distinctive shape such as a Circle Top, Eyebrow, Hexagon or Cathedral, the full‑glass exposure adds drama to any façade or interior space. These windows are versatile enough to stand alone as a focal point or to be combined with other styles, giving homeowners the freedom to design grand, custom‑look homes without compromising on comfort or efficiency.",
+      "selected_images": [
+        {
+          "path": "output/images/page_11_img_1.png",
+          "reason": "Shows a family enjoying the expansive, clear view through a large picture window, illustrating the product’s size, clarity and lifestyle appeal."
+        },
+        {
+          "path": "output/images/page_11_img_2.png",
+          "reason": "Highlights a special‑shape arched window paired with a picture window on a home exterior, demonstrating architectural versatility and visual impact."
+        }
+      ],
+      "key_takeaways": [
+        "Narrowline, fusion‑welded frames provide sleek aesthetics, structural strength, and superior energy performance.",
+        "High‑performance insulated glass units with warm‑edge spacers and multi‑chambered construction keep homes comfortable and reduce energy costs.",
+        "A broad palette of special shapes (Circle, Arch, Hexagon, etc.) lets designers create unique, eye‑catching architectural features.",
+        "Full glass exposure offers uninterrupted outdoor views, making each window a striking focal point in any setting."
+      ],
+      "source_pages": [
+        11
+      ],
+      "is_product_section": true,
+      "images": [
+        "output/images/page_11_img_1.png",
+        "output/images/page_11_img_2.png"
+      ]
+    },
+    {
+      "title": "Mezzo Casement & Awning Windows",
+      "content": "Our Mezzo Casement and Awning windows combine timeless craftsmanship with cutting‑edge technology. The beveled exterior sash creates a sleek, slim‑line look that makes the glass appear larger, while the step‑down frame with a compression‑type inner bulb seal keeps out wind and rain. A state‑of‑the‑art multi‑directional hinge system lets you enjoy fresh air from any angle and makes interior cleaning a breeze, and the positive crank mechanism provides effortless opening and closing. Both models feature a robust multi‑point locking system for enhanced security and a tighter seal, delivering superior comfort and energy efficiency. Choose from a variety of lite configurations or pair an awning window with fixed lites for added visibility and ventilation.",
+      "selected_images": [
+        {
+          "path": "output/images/page_12_img_1.png",
+          "reason": "Shows a Mezzo casement window in a modern interior, highlighting the large glass area and sleek beveled sash design."
+        }
+      ],
+      "key_takeaways": [
+        "Beveled exterior sashes give a larger glass appearance and a modern, slim‑line aesthetic.",
+        "Multi‑directional hinges and positive crank make ventilation and cleaning easy.",
+        "Multi‑point locking provides a tight seal, increased comfort, and added security."
+      ],
+      "source_pages": [
+        12
+      ],
+      "is_product_section": true,
+      "images": [
+        "output/images/page_12_img_1.png"
+      ]
+    },
+    {
+      "title": "Mezzo Bay, Bow & Garden Windows",
+      "content": "Mezzo’s Bay, Bow, and Garden windows bring expansive views and functional style to any room. Garden windows feature a fully welded mainframe and 1‑inch clear insulated glass, with a tempered sloped panel that lets you grow herbs year‑round while keeping out the elements. Bay and Bow windows are built with 1‑¼‑inch furniture‑grade veneer, slimline reinforced mullions, and a multi‑point locking system for a tight, energy‑efficient seal. Choose from oak or birch veneer seatboards, or upgrade to a 3‑inch pre‑insulated seatboard, with Avonite color options like Cameo, Beach, Sandstone, and Dusk to match your décor. An optional exterior roof system, available in copper or painted‑aluminum clad kits, completes the look and adds extra weather protection.",
+      "selected_images": [
+        {
+          "path": "output/images/page_13_img_1.png",
+          "reason": "Shows a garden window installed in a kitchen with plants, illustrating the functional indoor garden feature and welded mainframe."
+        },
+        {
+          "path": "output/images/page_13_img_2.png",
+          "reason": "Depicts a bow window with a wooden frame and a family looking outside, highlighting the design and family‑friendly appeal of bow configurations."
+        },
+        {
+          "path": "output/images/page_13_img_3.png",
+          "reason": "Displays a bay window in an elegant living‑room setting, demonstrating the sleek veneer construction and expansive view."
+        }
+      ],
+      "key_takeaways": [
+        "Fully welded garden window mainframe with 1\" insulated glass provides durability and all‑weather performance.",
+        "Bay and bow windows use 1‑¼\" furniture‑grade veneer and reinforced mullions for strength and sleek aesthetics.",
+        "Multi‑point locking and optional 3\" pre‑insulated seatboards boost energy efficiency and comfort.",
+        "Optional copper or painted‑aluminum roof kits give a finished exterior look and extra protection."
+      ],
+      "source_pages": [
+        13
+      ],
+      "is_product_section": true,
+      "images": [
+        "output/images/page_13_img_1.png",
+        "output/images/page_13_img_2.png",
+        "output/images/page_13_img_3.png"
+      ]
+    },
+    {
+      "title": "Mezzo Sliding Patio Doors",
+      "content": "Discover the elegance and performance of Mezzo Sliding Patio Doors, crafted with a premium vinyl mainframe that features a double‑wall design to resist chipping, peeling, cracking, or warping. Each door is fitted with 1\" thick insulated glass and a warm‑edge spacer system, delivering superior energy efficiency and a crystal‑clear view of the outdoors. The precision‑engineered tandem roller system provides smooth, whisper‑quiet operation, while dual internal and external weatherstripping keeps your home comfortable year‑round. Choose from Contemporary, Classic, or French styles and a range of handle finishes to match any décor, and enjoy the added strength of steel reinforcements at critical interlocks and lock rails.",
+      "selected_images": [
+        {
+          "path": "output/images/page_14_img_1.png",
+          "reason": "Shows a lifestyle view through the sliding patio door, highlighting the clear glass and the seamless connection to the outdoor environment."
+        }
+      ],
+      "key_takeaways": [
+        "Premium vinyl double‑wall construction ensures durability without warping or cracking.",
+        "1\" insulated glass with warm‑edge spacers and tandem rollers provide energy efficiency and quiet, effortless sliding."
+      ],
+      "source_pages": [
+        14
+      ],
+      "is_product_section": true,
+      "images": [
+        "output/images/page_14_img_1.png"
+      ]
+    },
+    {
+      "title": "Mezzo Patio Door Styles (Contemporary, Classic, French)",
+      "content": "Discover the three signature Mezzo patio‑door designs that let you frame the outdoors in style. The Contemporary‑Style door features a warm wood frame with a sleek, minimal grid, perfectly complementing a modern blue‑gray room and creating a seamless indoor‑outdoor flow. The Classic‑Style door showcases a crisp white frame and a timeless colonial grid, adding elegance to a cozy brown‑walled living space while offering a clear view of the garden. The French‑Style door combines a white frame with vertical prairie‑style grids, ideal for a serene green bedroom that opens onto a deck for relaxed weekend mornings. All three options deliver energy‑efficient glazing, smooth operation, and a polished look that enhances any décor.",
+      "selected_images": [
+        {
+          "path": "output/images/page_15_img_1.png",
+          "reason": "Shows the Contemporary‑Style patio door with its warm wood frame and simple grid in a blue‑gray room, illustrating the modern aesthetic."
+        },
+        {
+          "path": "output/images/page_15_img_2.png",
+          "reason": "Depicts the Classic‑Style door with a white frame and traditional grid in a brown‑walled living room, highlighting its timeless appeal."
+        },
+        {
+          "path": "output/images/page_15_img_3.png",
+          "reason": "Features the French‑Style door with white frame and vertical grids in a green bedroom, demonstrating its suitability for bedroom‑to‑deck access."
+        }
+      ],
+      "key_takeaways": [
+        "Three distinct styles—Contemporary, Classic, French—each with unique frame colors and grid patterns.",
+        "Designed to match specific interior décor settings while providing expansive garden views.",
+        "All doors offer high‑performance glazing and smooth, reliable operation."
+      ],
+      "source_pages": [
+        15
+      ],
+      "is_product_section": true,
+      "images": [
+        "output/images/page_15_img_1.png",
+        "output/images/page_15_img_2.png",
+        "output/images/page_15_img_3.png"
+      ]
+    }
+  ],
+  "_metadata": {
+    "total_pages": 18,
+    "total_images_available": 37,
+    "total_sections": 15,
+    "images_used": 31,
+    "themes_identified": 14
+  }
+}

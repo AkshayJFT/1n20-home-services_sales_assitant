@@ -1,0 +1,391 @@
+[
+  {
+    "page_num": 0,
+    "page_summary": "Marketing cover page for Alside's Ascend Composite Cladding System, featuring the tagline 'Elevate Your Expectations' and showcasing a luxury home with the product installed.",
+    "key_points": [
+      "Product: Ascend Composite Cladding System",
+      "Brand: Alside",
+      "Marketing tagline: 'Elevate Your Expectations'",
+      "Product appears to be exterior home siding/cladding material",
+      "Gray textured siding shown in background corners"
+    ],
+    "images": [
+      {
+        "description": "Large luxury home photograph showing a multi-story residential property with gray composite siding, white trim, multiple gabled roofs, landscaped front yard with manicured lawn and trees",
+        "relevance": "Demonstrates the Ascend composite cladding product installed on an upscale home, serving as the main product showcase image",
+        "vlm_coords_pct": [
+          0,
+          35,
+          100,
+          95
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          1275,
+          1636
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_1_img_1.webp"
+      },
+      {
+        "description": "Gray textured siding material sample visible in upper corners of the page",
+        "relevance": "Shows close-up texture of the Ascend composite cladding product material",
+        "vlm_coords_pct": [
+          0,
+          0,
+          15,
+          35
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          191,
+          577
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/3/images/page_1_img_2.webp"
+      }
+    ]
+  },
+  {
+    "page_num": 1,
+    "page_summary": "Marketing page for ASCEND® Composite Cladding System from Alside, promoting their exterior home siding product that offers the look of real wood with lasting durability and beauty.",
+    "key_points": [
+      "ASCEND® is a composite cladding system made by Alside",
+      "Features a grained look of real wood that maintains beauty even after prolonged exposure to elements",
+      "Combines aesthetics, performance, and value",
+      "Designed to look 'just installed' for as long as you own your home",
+      "Targets homeowners wanting to improve curb appeal"
+    ],
+    "images": [
+      {
+        "description": "Large photograph of an upscale two-story home featuring dark blue/gray composite siding, stone accents, a red front door, attached garage, and professional landscaping",
+        "relevance": "Showcases the ASCEND product installed on an attractive home, demonstrating the aesthetic appeal and real-world application of the siding system",
+        "vlm_coords_pct": [
+          0,
+          45,
+          100,
+          100
+        ],
+        "actual_bbox": [
+          0,
+          33,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_2_img_1.webp"
+      }
+    ]
+  },
+  {
+    "page_num": 2,
+    "page_summary": "Marketing brochure page for ASCEND Composite Cladding System, highlighting its superior features compared to other siding materials including vinyl, wood, fiber cement, and engineered wood. The product is positioned as combining beauty, performance, durability, and easy maintenance.",
+    "key_points": [
+      "ASCEND is a first-of-its-kind cladding system combining beauty, performance, durability and easy maintenance",
+      "Visually matches wood but lasts longer with minimal upkeep and lower cost of ownership",
+      "Color stays vibrant year after year, saving thousands in repaint costs",
+      "Engineered to keep weather out and beauty in",
+      "ASCEND is the only product that checks ALL comparison categories",
+      "Features: High-end aesthetics (look and feel of wood), Low maintenance (never needs painted), Lifetime warranty (non-prorated coverage), Fire performance (Class A-rated), Moisture resistant, and Insulating properties (thermal resistance)",
+      "Competitors lack multiple features: Vinyl lacks aesthetics; Wood lacks low maintenance, warranty, fire performance, and moisture resistance; Fiber cement lacks low maintenance, warranty, moisture resistance, and insulation; Engineered wood lacks low maintenance, warranty, fire performance, moisture resistance, and insulation"
+    ],
+    "images": [
+      {
+        "description": "Wood-grain textured background showing the ASCEND cladding product appearance in gray color",
+        "relevance": "Demonstrates the realistic wood-like aesthetic of the ASCEND composite cladding product",
+        "vlm_coords_pct": [
+          0,
+          0,
+          100,
+          42
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          1275,
+          421
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/3/images/page_3_img_1.webp"
+      },
+      {
+        "description": "Comparison chart/table showing ASCEND vs competing materials (Vinyl, Wood, Fiber Cement, Engineered Wood) across six feature categories",
+        "relevance": "Key visual demonstrating ASCEND's competitive advantages with checkmarks showing feature availability across different siding options",
+        "vlm_coords_pct": [
+          3,
+          53,
+          75,
+          98
+        ],
+        "actual_bbox": [
+          0,
+          445,
+          1275,
+          1595
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_3_img_2.webp"
+      }
+    ]
+  },
+  {
+    "page_num": 3,
+    "page_summary": "Marketing page for ASCEND exterior siding product, highlighting its wood-like appearance with superior performance features including fire and moisture resistance, available in 20 colors with a lifetime limited warranty.",
+    "key_points": [
+      "ASCEND provides high-end look of real wood with exceptional thermal and impact performance",
+      "Fire and moisture resistant material",
+      "Available in 20 on-trend colors",
+      "Minimal maintenance required",
+      "Features realistic woodgrain texture that's hard to distinguish from real wood",
+      "7-inch tall profile for high-end appearance and increased home value",
+      "Designer-inspired color options for customization",
+      "Backed by non-prorated lifetime limited warranty"
+    ],
+    "images": [
+      {
+        "description": "Large hero image of an upscale two-story home with dark blue/gray siding, white trim, stone chimney, and wraparound porch with white railings",
+        "relevance": "Showcases the ASCEND siding product installed on a premium residential home, demonstrating the high-end aesthetic appeal",
+        "vlm_coords_pct": [
+          0,
+          0,
+          100,
+          47
+        ],
+        "actual_bbox": [
+          0,
+          61,
+          1275,
+          998
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_4_img_1.webp"
+      },
+      {
+        "description": "Row of four feature icons showing texture sample, 7-inch profile measurement, color swatches, and lifetime warranty badge",
+        "relevance": "Visual representation of the four key product features: texture, profile size, color options, and warranty coverage",
+        "vlm_coords_pct": [
+          5,
+          68,
+          95,
+          100
+        ],
+        "actual_bbox": [
+          716,
+          1159,
+          851,
+          1294
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/3/images/page_4_img_2.webp"
+      }
+    ]
+  },
+  {
+    "page_num": 4,
+    "page_summary": "Marketing page for ASCEND Composite Cladding System featuring patented (GP)² Technology, highlighting its durability against weather elements and various protective features including water resistance, glass fibers, titanium dioxide, weatherable pigments, impact modifiers, and flame retardants.",
+    "key_points": [
+      "ASCEND Composite Cladding System uses patented (GP)² Technology",
+      "Engineered to outperform at every level",
+      "Water-resistant: Prevents rotting, warping, shrinking and swelling",
+      "Glass fibers add strength and stability",
+      "Titanium dioxide protects against UV degradation",
+      "Weatherable pigments resist fading even on dark colors",
+      "Impact modifiers resist dents and dings",
+      "Flame retardants decrease spread of smoke and flames",
+      "Protects against wind, rain, hail, heat and impact damage"
+    ],
+    "images": [
+      {
+        "description": "House exterior showing dark blue/gray composite siding installation with white trim and colorful flowers",
+        "relevance": "Demonstrates the aesthetic appearance of the ASCEND cladding product installed on a home",
+        "vlm_coords_pct": [
+          0,
+          0,
+          30,
+          42
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          382,
+          693
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/3/images/page_5_img_1.webp"
+      },
+      {
+        "description": "Garden scene with bright sunlight streaming through trees and flowers",
+        "relevance": "Illustrates the outdoor environment and sun exposure the siding must withstand",
+        "vlm_coords_pct": [
+          30,
+          0,
+          78,
+          42
+        ],
+        "actual_bbox": [
+          382,
+          0,
+          994,
+          693
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/3/images/page_5_img_2.webp"
+      },
+      {
+        "description": "Close-up of water droplets beading on textured surface",
+        "relevance": "Demonstrates the water-resistant properties of the cladding material",
+        "vlm_coords_pct": [
+          42,
+          42,
+          78,
+          58
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          1275,
+          1578
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_5_img_3.webp"
+      }
+    ]
+  },
+  {
+    "page_num": 5,
+    "page_summary": "Marketing page for ASCEND Composite Cladding highlighting its timeless design, durability, and value proposition. The page promotes the ASCEND Visualizer tool that allows homeowners to preview home transformations with different color schemes before installation.",
+    "key_points": [
+      "ASCEND Composite Cladding offers industry-leading warranty and unmatched durability",
+      "ASCEND Visualizer is an easy-to-use program for creating before and after shots",
+      "Design-ready gallery accessible from any mobile device",
+      "Users can upload photos of their own home to apply products virtually",
+      "Design team available to prep photos for customers",
+      "All design selections can be saved and listed for reference",
+      "Tool available at Alside.Renoworks.com/ASCENDCladding"
+    ],
+    "images": [
+      {
+        "description": "Laptop screen showing the ASCEND Visualizer design interface with house images",
+        "relevance": "Demonstrates the digital visualization tool being promoted",
+        "vlm_coords_pct": [
+          4,
+          33,
+          35,
+          52
+        ],
+        "actual_bbox": [
+          51,
+          544,
+          446,
+          858
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/3/images/page_6_img_1.webp"
+      },
+      {
+        "description": "Before and after comparison of a home exterior showing transformation from dark siding to white ASCEND cladding, split diagonally",
+        "relevance": "Visual demonstration of the product's transformative effect on home appearance",
+        "vlm_coords_pct": [
+          38,
+          33,
+          96,
+          98
+        ],
+        "actual_bbox": [
+          51,
+          440,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_6_img_2.webp"
+      }
+    ]
+  },
+  {
+    "page_num": 6,
+    "page_summary": "This page showcases the 20 fade-resistant color options available for ASCEND Composite Cladding, a home exterior siding product. The colors range from whites and neutrals to browns, grays, blues, greens, and a brick red option.",
+    "key_points": [
+      "ASCEND Composite Cladding offers 20 fade-resistant color options",
+      "Color choices significantly impact a home's exterior design",
+      "The palette includes options for both modern architectural details and historic homes",
+      "Colors are designed for enduring aesthetic value",
+      "Color categories include: whites/creams (Glacier White, Almond, Monterey Sand, Pebble), browns (Canyon Drift, Flagship Brown, Rustic Timber), grays (Cape Cod Gray, Sterling Gray, Storm, Ageless Slate, Charcoal Smoke, Cast Iron), blues (Laguna Blue, Harbor Blue, Midnight Blue), greens (Mountain Fern, Deep Moss), and accent colors (Riviera Dusk, Fired Brick)"
+    ],
+    "images": [
+      {
+        "description": "Grid of 20 color swatches showing all available ASCEND Composite Cladding colors with wood grain texture, organized in 5 rows of 4 colors each",
+        "relevance": "Visual representation of all available product color options for customer selection",
+        "vlm_coords_pct": [
+          5,
+          30,
+          95,
+          98
+        ],
+        "actual_bbox": [
+          64,
+          229,
+          1197,
+          1559
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_7_img_1.webp"
+      }
+    ]
+  },
+  {
+    "page_num": 7,
+    "page_summary": "Advertisement for Alside's ASCEND composite cladding product, showcasing the exterior siding on residential homes with the tagline 'Different. Better. Beautiful.' The ad promotes the product's value and directs viewers to ASCENDCompositeCladding.com for more information.",
+    "key_points": [
+      "Product: ASCEND Composite Cladding by Alside",
+      "Tagline: Different. Better. Beautiful.",
+      "Website: ASCENDCompositeCladding.com",
+      "Company location: 3773 State Road, Cuyahoga Falls, Ohio 44223",
+      "Contact: 1-800-922-6009 or www.alside.com",
+      "Product is Made in USA",
+      "Colors may vary from printed materials - final selections should use actual product samples",
+      "GP² Technology is a registered trademark of Associated Materials, LLC",
+      "Copyright 2021 Alside"
+    ],
+    "images": [
+      {
+        "description": "Large photograph showing residential homes with ASCEND composite cladding siding, featuring white horizontal siding with dark accent sections, black shutters, and stone veneer base details",
+        "relevance": "Main product showcase demonstrating the aesthetic appeal and application of ASCEND composite cladding on actual homes",
+        "vlm_coords_pct": [
+          0,
+          15,
+          100,
+          80
+        ],
+        "actual_bbox": [
+          0,
+          178,
+          1275,
+          1629
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_8_img_1.webp"
+      },
+      {
+        "description": "Digital devices (laptop, tablet, smartphone) displaying the ASCEND website and product information",
+        "relevance": "Shows the digital resources available for customers to learn more about the product",
+        "vlm_coords_pct": [
+          5,
+          72,
+          35,
+          90
+        ],
+        "actual_bbox": [
+          63,
+          1188,
+          446,
+          1485
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/3/images/page_8_img_2.webp"
+      }
+    ]
+  }
+]

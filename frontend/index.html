@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Explorer - AI-Powered Gallery</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="header-logo">
+                <i class="fas fa-sparkles"></i>
+            </div>
+            <h1 class="header-title" id="presentationTitle">1n20 Home Services</h1>
+            <span class="header-subtitle">AI-Powered Presentation</span>
+            <div class="header-actions">
+                <button class="theme-toggle-btn" id="themeToggleBtn" title="Toggle Theme">
+                    <i class="fas fa-moon" id="themeIcon"></i>
+                </button>
+                <span class="status-badge" id="statusBadge">Ready</span>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Left Panel - Images -->
+            <div class="image-panel">
+                <!-- Main Image Display -->
+                <div class="image-display-container">
+                    <div class="glass-panel" id="imageDisplay">
+                        <div class="image-placeholder">
+                            <i class="fas fa-image"></i>
+                            <p>No images to display</p>
+                        </div>
+                    </div>
+                    <!-- Image Counter -->
+                    <div class="image-counter" id="imageCounter"></div>
+                </div>
+
+                <!-- Thumbnail Strip -->
+                <div class="thumbnail-strip" id="thumbnailStrip"></div>
+
+                <!-- Controls -->
+                <div class="controls-section">
+                    <button class="control-btn" id="prevBtn" title="Previous">
+                        <i class="fas fa-backward-step"></i>
+                    </button>
+                    <button class="control-btn-primary" id="playPauseBtn" title="Play/Pause">
+                        <i class="fas fa-play" id="playPauseIcon"></i>
+                    </button>
+                    <button class="control-btn" id="nextBtn" title="Next">
+                        <i class="fas fa-forward-step"></i>
+                    </button>
+                    <button class="control-btn" id="stopBtn" title="Stop">
+                        <i class="fas fa-stop"></i>
+                    </button>
+                    <button class="control-btn" id="voiceOnlyBtn" title="Voice Only Mode">
+                        <i class="fas fa-headphones" id="voiceOnlyIcon"></i>
+                    </button>
+                    <!-- Settings now controlled by admin dashboard -->
+                    <button class="control-btn" id="settingsBtn" title="Settings" style="display: none;">
+                        <i class="fas fa-cog"></i>
+                    </button>
+                </div>
+
+                <!-- Progress Bar -->
+                <div class="progress-section">
+                    <div class="progress-bar">
+                        <div class="progress-fill" id="progressFill"></div>
+                    </div>
+                    <span class="progress-text" id="progressText">Section 0 of 0</span>
+                </div>
+
+                <!-- Current Section Content -->
+                <div class="section-info" id="currentSection">
+                    <div class="section-header">
+                        <h3 id="sectionTitle">Welcome</h3>
+                        <span class="section-badge" id="sectionBadge">0 / 0</span>
+                    </div>
+                    <div class="section-content" id="sectionContent">
+                        <p class="placeholder-text">Click play to start the presentation</p>
+                    </div>
+                    <div class="key-takeaways" id="keyTakeaways" style="display: none;">
+                        <h4>Key Takeaways</h4>
+                        <ul id="takeawaysList"></ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Panel - Chat -->
+            <div class="chat-panel">
+                <!-- Chat Header -->
+                <div class="chat-header">
+                    <div class="chat-avatar">
+                        <i class="fas fa-robot"></i>
+                    </div>
+                    <div class="chat-info">
+                        <h2>AI Assistant</h2>
+                        <p id="welcomeUserName">Always here to help</p>
+                    </div>
+                    <div class="chat-status">
+                        <span class="status-dot"></span>
+                        <span>Online</span>
+                    </div>
+                </div>
+
+                <!-- Chat Messages -->
+                <div class="chat-messages" id="chatMessages">
+                    <!-- Messages will be added dynamically -->
+                </div>
+
+                <!-- Chat Input -->
+                <div class="chat-input-section">
+                    <div class="input-container">
+                        <input
+                            type="text"
+                            id="chatInput"
+                            placeholder="Type your message..."
+                        />
+                        <div class="input-actions">
+                            <button class="chat-mute-btn" id="chatMuteBtn" title="Mute/Unmute Chat Voice">
+                                <i class="fas fa-volume-up" id="chatMuteIcon"></i>
+                            </button>
+                            <button class="voice-btn" id="voiceBtn" title="Voice Input">
+                                <i class="fas fa-microphone"></i>
+                            </button>
+                            <button class="send-btn" id="sendBtn" title="Send">
+                                <i class="fas fa-paper-plane"></i>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="voice-indicator" id="voiceIndicator" style="display: none;">
+                        <div class="voice-waves">
+                            <span></span><span></span><span></span><span></span><span></span>
+                        </div>
+                        <span>Speak now - text appears above</span>
+                        <button class="cancel-voice" id="cancelVoice" title="Cancel">
+                            <i class="fas fa-times"></i>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Settings Modal - Now controlled by admin dashboard, hidden -->
+    <div class="settings-modal" id="settingsModal" style="display: none !important;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Settings</h3>
+                <button class="close-btn" id="closeSettings">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="setting-group">
+                    <label>Voice</label>
+                    <select id="voiceSelect">
+                        <optgroup label="Female Voices">
+                            <option value="asteria">Asteria (American, warm)</option>
+                            <option value="luna">Luna (American, soft)</option>
+                            <option value="stella">Stella (American, confident)</option>
+                            <option value="athena">Athena (British, professional)</option>
+                            <option value="hera">Hera (American, authoritative)</option>
+                        </optgroup>
+                        <optgroup label="Male Voices">
+                            <option value="orion">Orion (American, deep)</option>
+                            <option value="arcas">Arcas (American, energetic)</option>
+                            <option value="perseus">Perseus (American, friendly)</option>
+                            <option value="angus">Angus (Irish accent)</option>
+                            <option value="orpheus">Orpheus (American, calm)</option>
+                            <option value="helios">Helios (British, refined)</option>
+                            <option value="zeus">Zeus (American, commanding)</option>
+                        </optgroup>
+                    </select>
+                </div>
+                <div class="setting-group">
+                    <label class="checkbox-label">
+                        <input type="checkbox" id="autoTTS" checked>
+                        <span>Auto-play voice</span>
+                    </label>
+                </div>
+                <div class="setting-group">
+                    <label>Speed: <span id="speedValue">1x</span></label>
+                    <input type="range" id="speedSlider" min="0.5" max="2" step="0.1" value="1">
+                </div>
+                <div class="setting-group">
+                    <label>Section Delay (seconds)</label>
+                    <select id="sectionDelay">
+                        <option value="0">0</option>
+                        <option value="0.5" selected>0.5</option>
+                        <option value="1">1</option>
+                        <option value="2">2</option>
+                        <option value="3">3</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Audio Players (Hidden) -->
+    <audio id="audioPlayer"></audio>
+    <audio id="chatAudioPlayer"></audio>
+
+    <!-- Markdown Parser -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="/static/app.js"></script>
+</body>
+</html>

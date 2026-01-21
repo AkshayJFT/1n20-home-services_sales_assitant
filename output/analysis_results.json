@@ -1,0 +1,951 @@
+[
+  {
+    "page_num": 0,
+    "page_summary": "This is a marketing cover page for Mezzo windows by Alside, showcasing their window products with the tagline 'Aesthetics and Technology...Redefined'. The image features a luxurious sunroom or dining area with large arched windows overlooking a green landscape.",
+    "key_points": [
+      "Product brand: Mezzo by Alside",
+      "Tagline: Aesthetics and Technology...Redefined",
+      "Features large architectural windows with arched top design",
+      "Windows shown in white/cream finish",
+      "Product appears designed for upscale residential applications"
+    ],
+    "images": [
+      {
+        "description": "Large lifestyle photograph showing an elegant sunroom/dining area with floor-to-ceiling arched windows, a round wooden dining table with patterned upholstered chairs, indoor plants, and a view of a manicured lawn and trees",
+        "relevance": "Main product showcase image demonstrating the Mezzo windows installed in an upscale residential setting, highlighting their aesthetic appeal and architectural versatility",
+        "vlm_coords_pct": [
+          0,
+          0,
+          100,
+          100
+        ],
+        "actual_bbox": [
+          0,
+          74,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_1_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_num": 1,
+    "page_summary": "This appears to be a welcome or introductory page from a home design or window company brochure, featuring an elegant interior space with large windows overlooking trees, showcasing the company's window products in a luxurious residential setting.",
+    "key_points": [
+      "Welcome Home - appears to be a branding/welcome message",
+      "Features a curved room design with multiple large windows",
+      "Showcases elegant interior design with high-end furnishings",
+      "Windows provide expansive views of outdoor greenery",
+      "Room includes decorative metal railing and upholstered furniture"
+    ],
+    "images": [
+      {
+        "description": "Interior photograph of an elegant curved room with multiple tall windows, featuring a coffered ceiling, decorative metal railing, and upholstered wingback chairs with decorative pillows. The windows overlook lush green trees.",
+        "relevance": "Main product showcase image demonstrating the company's windows installed in a high-end residential setting, emphasizing natural light and views",
+        "vlm_coords_pct": [
+          0,
+          0,
+          100,
+          85
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          1275,
+          1423
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_2_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_num": 2,
+    "page_summary": "Marketing page for Mezzo Windows by Alside, emphasizing quality, elegance, energy efficiency, and American craftsmanship. The company highlights over 70 years of industry excellence and custom-made window solutions.",
+    "key_points": [
+      "Mezzo Windows combines elegant style with energy efficiency and strength",
+      "Windows are custom-made to fit window openings precisely",
+      "Alside has more than 70 years of industry excellence",
+      "Products are Made in America, supporting American jobs and economic growth",
+      "Customer happiness is prioritized as part of company legacy"
+    ],
+    "images": [
+      {
+        "description": "Golden retriever dog looking out through a window",
+        "relevance": "Lifestyle image demonstrating window quality and home comfort appeal",
+        "vlm_coords_pct": [
+          47,
+          8,
+          78,
+          26
+        ],
+        "actual_bbox": [
+          698,
+          181,
+          1030,
+          501
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_3_img_1.png"
+      },
+      {
+        "description": "Interior living room scene showing large windows with natural light, featuring a brown sofa, decorative vases, and martini glasses on a table",
+        "relevance": "Showcases Mezzo Windows installed in an elegant home setting, demonstrating aesthetic appeal and natural lighting",
+        "vlm_coords_pct": [
+          0,
+          0,
+          28,
+          90
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          1164,
+          1422
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_3_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 3,
+    "page_summary": "Product specification page for Mezzo Windows detailing various proprietary features and technologies including EdgeForce narrowline frame, CoreFX composite reinforcement, Defense-Tek locking system, Forecaster sloped sill, HP3 telescoping sill, Gatekeeper sash-to-sill interlock, and Ocular screen bulb seal. The page also shows additional frame options and triple-pane glass availability.",
+    "key_points": [
+      "EdgeForce narrowline frame provides larger glass area for better daylighting with internal chambers for structural integrity and energy efficiency",
+      "CoreFX composite reinforcement is non-conductive for superior thermal performance and secure hardware mounting",
+      "Defense-Tek secure locking system features end-of-throw cam shift locking action with visual indicator for unlocked windows",
+      "Forecaster true sloped sill provides efficient drainage without weep holes",
+      "HP3 telescoping sill offers three-fold protection: air/water infiltration prevention, structural stability, and enhanced beauty",
+      "Gatekeeper sash-to-sill interlock technology with three layers of weatherstripping for extreme weather protection",
+      "Ocular screen bulb seal improves installation/removal and blocks insect access",
+      "Additional frame options available: 1-3/8\" Nail Fin Set Back and J-Channel Adaptor",
+      "Triple-pane insulated glass option available for enhanced energy efficiency",
+      "Double-hung base model auto-upgrades to ST (steel reinforcement) for units over 48\" wide or 84\" high"
+    ],
+    "images": [
+      {
+        "description": "Detailed cross-section cutaway diagram of Mezzo window frame showing internal construction, chambers, and component layers",
+        "relevance": "Illustrates the engineering and construction features described in the text including EdgeForce frame, CoreFX reinforcement, and various sill technologies",
+        "vlm_coords_pct": [
+          3,
+          3,
+          42,
+          88
+        ],
+        "actual_bbox": [
+          42,
+          41,
+          1231,
+          1636
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_4_img_1.png"
+      },
+      {
+        "description": "Three installation/frame option images showing 1-3/8\" Nail Fin Set Back, 1-3/8\" Nail Fin Set Back with J-Channel Adaptor, and Triple-Pane glass cross-section",
+        "relevance": "Shows the additional frame and glass options available for customization and enhanced energy efficiency",
+        "vlm_coords_pct": [
+          43,
+          89,
+          97,
+          99
+        ],
+        "actual_bbox": [
+          548,
+          1468,
+          1236,
+          1633
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_4_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 4,
+    "page_summary": "Product page for Mezzo windows highlighting key performance and design features. The page emphasizes the combination of beauty and performance through various technical specifications including fusion-welded corners, dual-pane glass, insulating chambers, seals, vent stops, and hidden screen tracks.",
+    "key_points": [
+      "Fully fusion-welded frame and sash corners provide superior strength and clean, low-profile finish",
+      "Dual-pane, double-strength glass increases strength, durability and insulation",
+      "Airtight insulating chambers enhance thermal performance and durability",
+      "Dual bulb seals create tighter seal between lower sash and sloped sill (double-hung and single-hung only)",
+      "Dual vent stops allow limited window opening for ventilation (not available on single-hung or single-sliding)",
+      "Hidden screen track creates clean-line design with half screens standard and full screens optional"
+    ],
+    "images": [
+      {
+        "description": "Header lifestyle image showing a woman near a window",
+        "relevance": "Sets the aesthetic context for the window product",
+        "vlm_coords_pct": [
+          0,
+          0,
+          100,
+          30
+        ],
+        "actual_bbox": [
+          0,
+          132,
+          841,
+          791
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_5_img_1.png"
+      },
+      {
+        "description": "Collection of six technical cross-section diagrams showing window frame components including fusion-welded corners, dual-pane glass, insulating chambers, dual bulb seals, vent stops, and hidden screen track",
+        "relevance": "Visual demonstration of all key technical features and construction details of the Mezzo window system",
+        "vlm_coords_pct": [
+          5,
+          42,
+          35,
+          95
+        ],
+        "actual_bbox": [
+          50,
+          944,
+          827,
+          1393
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_5_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 5,
+    "page_summary": "This page from Mezzo Windows promotes their high-performance glass packages designed to maximize energy savings year-round. It details two insulated glass package options (ClimaTech and ClimaTech ThermD) and an enhanced cavity foam insulation option, explaining how these technologies reduce energy loss in both winter and summer.",
+    "key_points": [
+      "Windows are roughly 80% glass, making glass selection crucial for energy efficiency",
+      "Mezzo offers two high-performance insulated glass packages: ClimaTech and ClimaTech ThermD",
+      "ClimaTech combines Low-E glass, argon gas, and Intercept Warm-Edge Spacer System",
+      "ClimaTech ThermD features Stainless Steel Intercept Warm-Edge Spacer for greater thermal efficiency",
+      "Low-E glass reflects warm air back in winter and blocks solar heat in summer",
+      "Enhanced cavity foam option uses silver-gray graphite-infused EPS for superior insulation",
+      "Lower U-Factor indicates greater energy savings and resistance to heat flow",
+      "Mezzo Windows are custom-made with various frame and glass options",
+      "Available in single-hung, double-hung, sliding and picture windows",
+      "No additional wall construction required compared to stock windows"
+    ],
+    "images": [
+      {
+        "description": "Person bundled up in winter clothing (knit hat and sweater) appearing cold",
+        "relevance": "Visual representation of cold weather conditions that energy-efficient windows help protect against",
+        "vlm_coords_pct": [
+          0,
+          0,
+          25,
+          22
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          318,
+          363
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_6_img_1.png"
+      },
+      {
+        "description": "Two seasonal energy savings diagrams showing house cross-sections - winter scene with snow and summer scene with sun",
+        "relevance": "Illustrates how Low-E glass works differently in winter (reflecting heat back inside) and summer (blocking solar heat penetration)",
+        "vlm_coords_pct": [
+          68,
+          17,
+          95,
+          52
+        ],
+        "actual_bbox": [
+          867,
+          280,
+          1211,
+          858
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_6_img_2.png"
+      },
+      {
+        "description": "Close-up cross-section of window frame showing enhanced cavity foam insulation with silver-gray color",
+        "relevance": "Shows the graphite-infused EPS foam material that provides greater thermal protection",
+        "vlm_coords_pct": [
+          24,
+          55,
+          40,
+          68
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_6_img_3.png"
+      }
+    ]
+  },
+  {
+    "page_num": 6,
+    "page_summary": "This page promotes Mezzo Windows' ENERGY STAR certification and energy efficiency features. It explains the ENERGY STAR program, shows climate zone requirements across the US, and provides a thermal performance comparison chart for different glass package options.",
+    "key_points": [
+      "ENERGY STAR is a government-backed voluntary partnership program sponsored by the U.S. EPA and Department of Energy",
+      "Mezzo Windows meet or exceed stringent ENERGY STAR requirements",
+      "Lower U-Factor means less energy needed to heat your home",
+      "Lower Solar Heat Gain Coefficient (SHGC) means more conservation on air-conditioning",
+      "Multiple glass package options available including Clear Glass, ClimaTech, ClimaTech Elite, ClimaTech ThermD, and ClimaTech ThermD TG2 Elite",
+      "ClimaTech ThermD TG2 Elite offers the best U-Factor performance at 0.22 for Double-Hung and 0.21 for Sliding",
+      "Mezzo Windows meet or exceed Air, Water and Structural Loads performance requirements through ASTM testing",
+      "Different climate zones (Northern, North-Central, South-Central, Southern) have different ENERGY STAR requirements"
+    ],
+    "images": [
+      {
+        "description": "US map showing ENERGY STAR climate zones divided into four regions: Northern (blue), North-Central (orange), South-Central (yellow), and Southern (red)",
+        "relevance": "Shows the different climate zones across the United States that determine ENERGY STAR requirements for windows",
+        "vlm_coords_pct": [
+          55,
+          22,
+          98,
+          55
+        ],
+        "actual_bbox": [
+          0,
+          119,
+          900,
+          929
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_7_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_num": 7,
+    "page_summary": "Product page for Mezzo Double-Hung Windows featuring their classic design, functionality, and technical specifications. The page highlights the windows' style, easy-to-clean tilt-in sashes, and various engineering features that provide durability and energy efficiency.",
+    "key_points": [
+      "Mezzo double-hung windows combine classic style with contemporary elegance and clean lines",
+      "Both sashes tilt in for easy cleaning from inside the home",
+      "Constant force balance system eliminates sash cords, weights and pulleys for smooth operation",
+      "Narrowline frame and sashes with fusion-welded corners for beauty, strength and energy efficiency",
+      "Integrated sash-to-sill interlock prevents sash from bowing in extreme winds",
+      "Non-conductive composite reinforcement in meeting rails improves energy efficiency",
+      "True sloped sill creates efficient drainage to prevent water and debris accumulation",
+      "Hidden screen track for clean appearance",
+      "Double-hung base model upgraded to ST (steel reinforcement) for units over 48\" wide or 84\" high"
+    ],
+    "images": [
+      {
+        "description": "Interior room photo showing three double-hung windows with natural light, featuring a seating area with cushions and decorative elements",
+        "relevance": "Demonstrates the aesthetic appeal and natural lighting provided by the double-hung windows in a home setting",
+        "vlm_coords_pct": [
+          12,
+          7,
+          88,
+          50
+        ],
+        "actual_bbox": [
+          272,
+          219,
+          1225,
+          989
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_8_img_1.png"
+      },
+      {
+        "description": "Photo of two children lying on a wooden floor in a room with large windows overlooking a lake, demonstrating the easy-to-clean tilt-in feature",
+        "relevance": "Shows the practical, family-friendly nature of the windows and illustrates the lifestyle benefits",
+        "vlm_coords_pct": [
+          5,
+          76,
+          75,
+          95
+        ],
+        "actual_bbox": [
+          0,
+          1014,
+          1275,
+          1470
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_8_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 8,
+    "page_summary": "This appears to be a product catalog page showcasing residential windows, likely from a window manufacturer. The page features double-hung windows with wooden interior frames and grid patterns, demonstrating both the aesthetic appeal in a living room setting and functional features like tilt-in cleaning capability.",
+    "key_points": [
+      "Double-hung windows with traditional grid/muntin patterns",
+      "Wood-tone interior frames complementing home décor",
+      "Windows feature tilt-in sash design for easy cleaning",
+      "Modern locking hardware mechanism shown in detail",
+      "Windows shown in elegant living room setting with natural light"
+    ],
+    "images": [
+      {
+        "description": "Large lifestyle photo of elegant living room featuring three tall double-hung windows with wooden frames and grid patterns, showing a cream sofa, dark cabinet, and turquoise accents",
+        "relevance": "Demonstrates the aesthetic appeal and natural light provided by the windows in a home setting",
+        "vlm_coords_pct": [
+          0,
+          0,
+          100,
+          72
+        ],
+        "actual_bbox": [
+          0,
+          100,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_9_img_1.png"
+      },
+      {
+        "description": "Three smaller images showing window functionality: woman cleaning tilted-in window sash, close-up of window lock mechanism, and detail of wood-grain frame finish",
+        "relevance": "Highlights practical features including easy-clean tilt-in design and quality hardware components",
+        "vlm_coords_pct": [
+          0,
+          72,
+          100,
+          100
+        ],
+        "actual_bbox": [
+          0,
+          1188,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_9_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 9,
+    "page_summary": "Product page for Mezzo Sliding Windows, highlighting their sleek design, ease of operation, and energy-efficient features. The windows feature horizontal sliding sashes, weathertight construction, and convenient lift-out cleaning capability.",
+    "key_points": [
+      "Mezzo Sliding Windows have slim silhouette with ample glass area and smooth gliding action",
+      "Both sashes slide horizontally and lift out for convenient cleaning",
+      "Heavy-duty construction with weathertight fit for excellent performance",
+      "Narrowline frame with fusion-welded corners for strength and energy efficiency",
+      "Insulated glass unit with double-strength glass and warm-edge spacer system",
+      "Multi-chambered construction creates airtight insulating compartments",
+      "Non-conductive composite reinforcement in meeting rails",
+      "Nylon-encased dual brass roller system for easy-glide performance",
+      "Hidden screen track for clean appearance"
+    ],
+    "images": [
+      {
+        "description": "Living room interior showing large sliding windows with natural light, featuring cream-colored walls, white sofa, and artwork",
+        "relevance": "Main hero image demonstrating the aesthetic appeal and natural light benefits of the sliding windows in a home setting",
+        "vlm_coords_pct": [
+          0,
+          3,
+          100,
+          55
+        ],
+        "actual_bbox": [
+          0,
+          25,
+          1275,
+          696
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_10_img_1.png"
+      },
+      {
+        "description": "Two product demonstration images showing a man operating the sliding window - one showing the window from outside, another showing him handling the window mechanism",
+        "relevance": "Demonstrates the ease of operation and smooth functionality of the sliding window system with precision-engineered roller system",
+        "vlm_coords_pct": [
+          0,
+          60,
+          22,
+          95
+        ],
+        "actual_bbox": [
+          0,
+          990,
+          280,
+          1567
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_10_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 10,
+    "page_summary": "This page from a Mezzo windows brochure showcases Picture Windows and Special Shapes, highlighting their versatility, quality construction, and design options. The windows feature narrowline frames for unobstructed views and high-performance insulating components for energy efficiency and weather protection.",
+    "key_points": [
+      "Picture windows offer versatility - can be used grand or small, alone or combined with other window styles",
+      "Narrowline frame with fusion-welded corners provides exceptional beauty, strength and energy efficiency",
+      "Insulated glass unit with double-strength glass and warm-edge spacer system for superior thermal protection",
+      "Embedded, multi-chambered construction creates airtight insulating compartments",
+      "Available in various architectural styles including Circle Top, Quarter Arch, Eyebrow, Half Eyebrow, Ellipse, Full Circle, Hexagon, Octagon, Pentagon, Cathedral, Trapezoid, Triangle and more",
+      "Full glass exposure offers unobstructed outdoor views",
+      "High-performance insulating components protect against harsh weather and energy loss"
+    ],
+    "images": [
+      {
+        "description": "Family of three (mother, father, and young daughter) posing together in front of a large picture window, demonstrating the window's size and clarity",
+        "relevance": "Shows the picture window product in a lifestyle context, demonstrating its large viewing area and appeal for families",
+        "vlm_coords_pct": [
+          0,
+          24,
+          52,
+          68
+        ],
+        "actual_bbox": [
+          0,
+          396,
+          663,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_11_img_1.png"
+      },
+      {
+        "description": "Exterior view of a home featuring a special shape arched window above a rectangular picture window, with climbing vines on the facade",
+        "relevance": "Demonstrates how special shape windows (arched top) can be combined with picture windows for architectural interest on home exteriors",
+        "vlm_coords_pct": [
+          52,
+          30,
+          100,
+          100
+        ],
+        "actual_bbox": [
+          0,
+          513,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_11_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 11,
+    "page_summary": "This page from a window product catalog describes casement and awning windows, highlighting their design features, functionality, and benefits. The content emphasizes the blend of traditional craftsmanship with modern window technology.",
+    "key_points": [
+      "Casement windows feature beveled exterior sash design for a larger glass appearance and slimline look",
+      "Step-down frame with compression-type inner bulb seal provides tight seal during inclement weather",
+      "State-of-the-art hinge system allows multi-directional ventilation and interior sash cleaning",
+      "Positive crank mechanism enables easy opening and closing operation",
+      "Multi-point locking system ensures tight seal and increased comfort",
+      "Multiple lite configurations available in a single mainframe",
+      "Awning windows feature heavy-duty hinge system for easy operation from inside",
+      "Awning windows have dual locking system on each side",
+      "Awning windows can combine with fixed lites for ventilation and increased visibility",
+      "Casement sash opens outward while awning window opens up and out"
+    ],
+    "images": [
+      {
+        "description": "Casement window installation photo showing a large window in a modern interior setting with a view of trees outside",
+        "relevance": "Demonstrates the aesthetic appeal and large glass area of casement windows in a real home setting",
+        "vlm_coords_pct": [
+          32,
+          18,
+          98,
+          62
+        ],
+        "actual_bbox": [
+          0,
+          356,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_12_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_num": 12,
+    "page_summary": "This page from a window catalog showcases Bay, Bow & Garden Windows, highlighting their features and benefits for transforming rooms. It includes product specifications for garden windows and bay/bow windows, along with seatboard color options.",
+    "key_points": [
+      "Garden windows feature fully welded mainframe for strength and stability",
+      "Garden windows have 1\" clear insulated glass for all-weather protection",
+      "Top sloped insulating glass panel is tempered for durability",
+      "Multi-point locking system provides tighter seal and comfort",
+      "Garden windows available with white screens and hardware only",
+      "Bay and bow windows feature 1-1/4\" furniture-grade veneer construction",
+      "Head and seatboard available in oak or birch veneer finishes",
+      "3\" pre-insulated seatboard option available",
+      "Slimline reinforced mullion design",
+      "Exterior roof system available with copper or painted aluminum roof clad kits",
+      "Bay/Bow Avonite seatboard options: Cameo, Beach, Sandstone, Dusk"
+    ],
+    "images": [
+      {
+        "description": "Garden window installed in kitchen with plants and herbs on display",
+        "relevance": "Shows practical application of garden window for growing plants indoors",
+        "vlm_coords_pct": [
+          50,
+          2,
+          100,
+          26
+        ],
+        "actual_bbox": [
+          637,
+          33,
+          1275,
+          429
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_13_img_1.png"
+      },
+      {
+        "description": "Bow window with wooden frame showing family looking outside",
+        "relevance": "Demonstrates bow window design and family-friendly appeal",
+        "vlm_coords_pct": [
+          0,
+          12,
+          55,
+          52
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          1275,
+          1650
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_13_img_2.png"
+      },
+      {
+        "description": "Bay window in living room setting with elegant decor",
+        "relevance": "Shows bay window installation in upscale interior design context",
+        "vlm_coords_pct": [
+          0,
+          53,
+          55,
+          98
+        ],
+        "actual_bbox": [
+          0,
+          874,
+          701,
+          1617
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_13_img_3.png"
+      },
+      {
+        "description": "Avonite seatboard color swatches showing Cameo, Beach, Sandstone, and Dusk options",
+        "relevance": "Displays available color/finish options for bay and bow window seatboards",
+        "vlm_coords_pct": [
+          55,
+          78,
+          95,
+          95
+        ],
+        "actual_bbox": [
+          701,
+          1287,
+          1211,
+          1567
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_13_img_4.png"
+      }
+    ]
+  },
+  {
+    "page_num": 13,
+    "page_summary": "Product page for Mezzo Sliding Patio Doors featuring premium vinyl construction, energy-efficient glass, and multiple style options (Contemporary, Classic, and French). The page highlights quality features, available configurations, and handle finish options.",
+    "key_points": [
+      "Premium vinyl mainframe with double-wall design won't chip, peel, crack or warp",
+      "1\" thick insulated glass with warm-edge spacer system for energy efficiency",
+      "Dual internal/external weatherstripping for optimal energy efficiency",
+      "Steel reinforcements at interlocks and lock rails for structural integrity",
+      "Precision-engineered tandem roller system for easy, quiet operation",
+      "Heavy-duty extruded aluminum screen with four adjustable rollers",
+      "Available in 2-panel (5', 6', 8' Wisconsin-style), 3-panel (9', 12'), and 4-panel (12') configurations",
+      "Three distinctive styles: Contemporary, Classic, and French",
+      "Multiple handle finishes available: White, Beige, Classic Clay, Bright Chrome, Brushed Chrome, Bright Brass, Antique Brass"
+    ],
+    "images": [
+      {
+        "description": "Lifestyle photo of young girl blowing bubbles, viewed through patio door with natural outdoor background",
+        "relevance": "Marketing image demonstrating the clear view and natural beauty visible through the sliding patio doors",
+        "vlm_coords_pct": [
+          28,
+          48,
+          88,
+          68
+        ],
+        "actual_bbox": [
+          0,
+          849,
+          1275,
+          1627
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_14_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_num": 14,
+    "page_summary": "A product catalog page showcasing three different styles of patio doors: Contemporary-Style, Classic-Style, and French-Style patio doors, each displayed in different room settings.",
+    "key_points": [
+      "Contemporary-Style Patio Door features warm wood frame with minimal grid pattern, shown in a blue-walled room",
+      "Classic-Style Patio Door has white frame with traditional grid pattern, displayed in a brown-walled living room",
+      "French-Style Patio Door features white frame with vertical grid design, shown in a green bedroom with deck access",
+      "All three door styles provide views to outdoor garden/patio areas",
+      "Page number 15 indicates this is part of a larger catalog"
+    ],
+    "images": [
+      {
+        "description": "Contemporary-style patio door with rich wood frame and simple grid pattern, installed in a room with blue-gray walls and hardwood flooring, overlooking a garden",
+        "relevance": "Showcases the contemporary door style option with warm wood aesthetic",
+        "vlm_coords_pct": [
+          0,
+          0,
+          50,
+          52
+        ],
+        "actual_bbox": [
+          0,
+          0,
+          637,
+          858
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_15_img_1.png"
+      },
+      {
+        "description": "Classic-style patio door with white frame and traditional colonial grid pattern, installed in a brown-walled living room with decorative rug, overlooking a lawn",
+        "relevance": "Demonstrates the classic door style with traditional grid design",
+        "vlm_coords_pct": [
+          50,
+          0,
+          100,
+          52
+        ],
+        "actual_bbox": [
+          637,
+          0,
+          1275,
+          858
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_15_img_2.png"
+      },
+      {
+        "description": "French-style patio door with white frame and vertical prairie-style grids, installed in a green bedroom with wainscoting, opening to a deck with red Adirondack chair",
+        "relevance": "Displays the French door style option suitable for bedroom-to-deck access",
+        "vlm_coords_pct": [
+          0,
+          52,
+          100,
+          100
+        ],
+        "actual_bbox": [
+          0,
+          858,
+          1275,
+          1650
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_15_img_3.png"
+      }
+    ]
+  },
+  {
+    "page_num": 15,
+    "page_summary": "This page showcases the FrameWorks Color Collection from Mezzo, displaying available exterior and interior color options for windows and patio doors. The collection features polyurethane coating technology for exterior colors and woodgrain laminates for interior finishes.",
+    "key_points": [
+      "Exterior colors feature heat-reflective pigments with polyurethane coating for fade-resistant finish",
+      "Interior woodgrain laminates are performance-engineered for durability",
+      "13 exterior color options available including Black, Architectural Bronze, American Terra, Hudson Khaki, Desert Clay, Sand Dune, English Red, Forest Green, Silver, Castle Gray, Classic Clay, Beige, and White",
+      "9 interior color options including White Woodgrain, Rich Maple Woodgrain, Light Oak Woodgrain, Dark Oak Woodgrain, Foxwood Woodgrain, Cherry Woodgrain, Classic Clay, Beige, and White",
+      "White woodgrain is only available with Beige or Classic Clay base",
+      "Classic Clay base is not available with exterior color finishes",
+      "Hardware color varies based on interior finish selection (matching, Pontiac Gold, or Brown)"
+    ],
+    "images": [
+      {
+        "description": "Grid of 13 exterior color swatches showing Black, Architectural Bronze, American Terra, Hudson Khaki, Desert Clay, Sand Dune, English Red, Forest Green, Silver, Castle Gray, Classic Clay, Beige, and White",
+        "relevance": "Shows all available exterior color options for customer selection",
+        "vlm_coords_pct": [
+          3,
+          18,
+          97,
+          54
+        ],
+        "actual_bbox": [
+          65,
+          473,
+          1209,
+          927
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_16_img_1.png"
+      },
+      {
+        "description": "Grid of 9 interior color swatches showing woodgrain patterns (White, Rich Maple, Light Oak, Dark Oak, Foxwood, Cherry) and solid colors (Classic Clay, Beige, White)",
+        "relevance": "Shows all available interior finish options for customer selection",
+        "vlm_coords_pct": [
+          3,
+          57,
+          97,
+          88
+        ],
+        "actual_bbox": [
+          65,
+          1118,
+          1210,
+          1402
+        ],
+        "is_cluster": false,
+        "saved_path": "output/images/page_16_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 16,
+    "page_summary": "This page presents design options for windows, including decorative grid patterns, grid profiles in various colors and finishes, V-grooved cut glass options, simulated divided lites, and Trimworks exterior trim system options.",
+    "key_points": [
+      "Contoured colonial grids available in 3/4\" and 1\" profiles with complementary colors and matching woodgrains",
+      "All grids are enclosed within the insulated glass unit for easy cleaning",
+      "Five grid pattern styles available: Colonial, Diamond, Craftsman, Prairie, and Double Prairie",
+      "Flat Grids available in Colonial, Diamond, Craftsman, Prairie and Double Prairie patterns",
+      "Contoured Grids available in Colonial, Craftsman, Prairie and Double Prairie patterns",
+      "1\" contoured colonial grids are not available in matching woodgrains",
+      "V-grooved cut glass available in Colonial and Prairie patterns from Mezzo Windows and Alside Patio Doors",
+      "Simulated Divided Lites combine historical window design with modern energy efficiency",
+      "Trimworks exterior trim system offers flat casing and brickmould options for weathertight installation",
+      "Flat casing available with and without bullnose sill; Brickmould available in 1-1/2\" and 3/4\" profiles"
+    ],
+    "images": [
+      {
+        "description": "Grid pattern options showing Colonial, Diamond, Craftsman, Prairie, and Double Prairie window designs",
+        "relevance": "Shows the five available decorative grid pattern styles for windows",
+        "vlm_coords_pct": [
+          30,
+          8,
+          95,
+          20
+        ],
+        "actual_bbox": [
+          382,
+          132,
+          1211,
+          330
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_17_img_1.png"
+      },
+      {
+        "description": "Grid profile color and finish options in two rows showing Flat White, Flat Beige, Flat Classic Clay, Contoured White, Contoured Beige, Contoured Classic Clay, Contoured Rich Maple, Contoured Light Oak, Contoured Dark Oak, Contoured Foxwood, and Contoured Cherry",
+        "relevance": "Displays all available color and finish options for window grid profiles",
+        "vlm_coords_pct": [
+          30,
+          22,
+          95,
+          45
+        ],
+        "actual_bbox": [
+          65,
+          220,
+          1210,
+          1105
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_17_img_2.png"
+      },
+      {
+        "description": "V-grooved cut glass patterns showing Colonial and Prairie designs",
+        "relevance": "Illustrates the two classic V-grooved cut glass pattern options",
+        "vlm_coords_pct": [
+          30,
+          50,
+          52,
+          62
+        ],
+        "actual_bbox": [
+          66,
+          1074,
+          691,
+          1283
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_17_img_3.png"
+      },
+      {
+        "description": "Trimworks exterior trim system showing Flat Casing and Brickmould window frame options",
+        "relevance": "Displays the two exterior trim options for window installation",
+        "vlm_coords_pct": [
+          55,
+          65,
+          95,
+          95
+        ],
+        "actual_bbox": [
+          781,
+          1136,
+          1145,
+          1472
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_17_img_4.png"
+      }
+    ]
+  },
+  {
+    "page_num": 17,
+    "page_summary": "This is a marketing page from Alside promoting their Mezzo Windows, emphasizing peace of mind through their Lifetime Limited Warranty and eco-friendly 'green' features. The page highlights the company's commitment to quality, energy efficiency, and environmental sustainability.",
+    "key_points": [
+      "Mezzo Windows are backed by Alside's Lifetime Limited Warranty, one of the strongest in the industry",
+      "Optional glass breakage warranty available",
+      "FrameWorks Color Collection exterior finishes carry a 10-year fade-resistance warranty",
+      "Windows are energy-smart and weathertight, helping reduce fuel consumption for heating and cooling",
+      "Virtually all in-plant vinyl scrap is recycled into other useful products",
+      "Vinyl resin is derived largely from common salt, described as a sustainable natural resource",
+      "Products are AAMA certified and meet IGCC (Insulating Glass Certification Council) standards",
+      "Company located in Cuyahoga Falls, Ohio with contact number 1-800-922-6009"
+    ],
+    "images": [
+      {
+        "description": "Lifestyle photo showing a happy family (mother and child) in sunlight, representing homeowners choosing green/eco-friendly options",
+        "relevance": "Main marketing image conveying the emotional benefit of choosing Alside products - peace of mind and a better world for families",
+        "vlm_coords_pct": [
+          24,
+          8,
+          88,
+          30
+        ],
+        "actual_bbox": [
+          0,
+          101,
+          1275,
+          995
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_18_img_1.png"
+      },
+      {
+        "description": "Certification logos cluster including AAMA, IGCC Insulating Glass Certification Council, and AAMA Certification Program badges",
+        "relevance": "Third-party certifications demonstrating product quality and industry compliance",
+        "vlm_coords_pct": [
+          5,
+          53,
+          60,
+          59
+        ],
+        "actual_bbox": [
+          67,
+          979,
+          708,
+          1071
+        ],
+        "is_cluster": true,
+        "saved_path": "output/images/page_18_img_2.png"
+      }
+    ]
+  }
+]

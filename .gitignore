@@ -1,0 +1,6 @@
+.env
+output_v2/
+test_extract/
+__pycache__/
+*.pyc
+venv/

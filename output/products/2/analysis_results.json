@@ -1,0 +1,873 @@
+[
+  {
+    "page_num": 0,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Smooth Steel Entry Door, showing detailed product information including dimensions, hardware specifications, energy ratings, and pricing for a professional-class door installation.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 80\" nominal size",
+      "Order #14476808-1, Quantity: 1",
+      "Door style: 002-440 Style 20-Gauge Smooth Steel with High-Definition Embossing",
+      "Finish: Rustic Bronze Inside and Outside",
+      "Hardware: Satin Nickel Hoppe Dallas Lever with 1 3/4\" Backset",
+      "Frame: Textured Rustic Bronze Aluminum Frame Cladding with Security Plate",
+      "Right Hand Inswing configuration (Inside Looking Out)",
+      "Energy Star Certified in All 50 States with U-Factor 0.17 and Solar Heat Gain Coefficient 0.01",
+      "Sell Price: $2,903.73 with Labor/Installation: $625.00 for Total: $3,528.73",
+      "Frame Depth: 4 9/16\" with 2\" Standard Brickmold",
+      "Bronze ZAC Auto-Adjusting Threshold (5 5/8\" Depth)"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the rustic bronze steel entry door showing the panel design with decorative embossing",
+        "relevance": "Shows the actual appearance of the door product from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          5,
+          10,
+          65,
+          62
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1144
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_1_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagram showing door dimensions including width (36 1/16\" to 40 1/4\") and height (80 15/16\" to 83 1/16\") measurements",
+        "relevance": "Provides critical dimensional information for installation and rough opening requirements",
+        "vlm_coords_pct": [
+          5,
+          64,
+          28,
+          88
+        ],
+        "actual_bbox": [
+          82,
+          816,
+          462,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_1_img_2.png"
+      },
+      {
+        "description": "Energy performance ratings panel showing U-Factor, Solar Heat Gain Coefficient, Visible Transmittance, Air Infiltration values and Energy Star certification",
+        "relevance": "Documents energy efficiency credentials and certifications for the door",
+        "vlm_coords_pct": [
+          45,
+          64,
+          72,
+          95
+        ],
+        "actual_bbox": [
+          742,
+          816,
+          1188,
+          1211
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_1_img_3.png"
+      }
+    ]
+  },
+  {
+    "page_num": 1,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Smooth Steel Entry Door with Clear Glass. This is a professional-class product quote showing detailed specifications, sizing, handing orientation, energy performance ratings, and pricing information for a single entry door in a FrameSaver Frame.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 84\" Nominal Size",
+      "Order #14476978-1, Quantity: 1",
+      "Door Style: 110 Style 20-Gauge Smooth Steel Door with Clear Glass and ComforTech DC",
+      "Right Hand Inswing - Inside Looking Out orientation",
+      "Frame: Textured Eggshell Aluminum Frame Cladding with Bronze ZAC Auto-Adjusting Threshold",
+      "Hardware: Black Hoppe Dallas Lever (1 3/4\" Backset) with Key Order Alike",
+      "Energy Performance: U-Factor 0.24, Solar Heat Gain Coefficient 0.10, Air Infiltration <= 0.04 cfm/ft2",
+      "Sell Price: $3,273.99, Labor/Installation: $625.00, Total: $3,898.99",
+      "Color: Eggshell Inside and Outside",
+      "Unit Size: 37 9/16\" x 85 11/16\", Frame Depth: 4 9/16\""
+    ],
+    "images": [
+      {
+        "description": "Outside and Inside views of the entry door showing a steel door with decorative glass panel at top featuring a fan-light design and two smaller rectangular glass panels below",
+        "relevance": "Shows the actual appearance of the door product from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          5,
+          10,
+          70,
+          58
+        ],
+        "actual_bbox": [
+          72,
+          168,
+          1052,
+          1129
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_2_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagram showing door dimensions including width (36 1/16\" to 38\") and height (85 11/16\" to 87 1/16\") measurements",
+        "relevance": "Provides precise dimensional specifications for installation planning",
+        "vlm_coords_pct": [
+          5,
+          62,
+          28,
+          88
+        ],
+        "actual_bbox": [
+          82,
+          790,
+          462,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_2_img_2.png"
+      },
+      {
+        "description": "Energy performance ratings panel showing U-Factor, Solar Heat Gain Coefficient, Visible Transmittance, and Air Infiltration values",
+        "relevance": "Documents the door's energy efficiency certifications and performance metrics",
+        "vlm_coords_pct": [
+          48,
+          62,
+          72,
+          88
+        ],
+        "actual_bbox": [
+          792,
+          790,
+          1188,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_2_img_3.png"
+      }
+    ]
+  },
+  {
+    "page_num": 2,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Smooth Steel Entry Door with Privacy Glass in FrameSaver Frame. The document includes detailed product specifications, pricing, sizing diagrams, handing information, and energy performance ratings for Order #14476989-1.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 84\" Nominal Size",
+      "Door Style: 1 Panel 437 Style 20-Gauge Smooth Steel with High-Definition Embossing",
+      "Glass: ComforTech DC with Obscure Privacy Glass",
+      "Color: Vallis Red Inside and Outside with Textured Vallis Red Aluminum Frame Cladding",
+      "Hardware: Black finish with Plymouth Grip Entrance Handle Outside, Georgian Handle Inside, Thumbturn Deadbolt",
+      "Right Hand Inswing - Inside Looking Out configuration",
+      "Energy Ratings: U-Factor 0.30, Solar Heat Gain Coefficient 0.19, Visible Transmittance 0.19, Air Infiltration <= 0.04 cfm/ft2",
+      "Total Price: $4,394.02 (Sell Price $3,769.02 + Labor/Installation $625.00)",
+      "Frame Depth: 4 9/16\" with 2\" Standard Brickmold",
+      "Includes Bronze ZAC Auto-Adjusting Threshold (5 5/8\" Depth) and Security Plate"
+    ],
+    "images": [
+      {
+        "description": "Outside and Inside views of the red steel entry door with arched privacy glass panel at top",
+        "relevance": "Shows the actual product appearance from both exterior and interior perspectives, displaying the Vallis Red color and privacy glass design",
+        "vlm_coords_pct": [
+          5,
+          10,
+          62,
+          65
+        ],
+        "actual_bbox": [
+          72,
+          168,
+          1052,
+          1129
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_3_img_1.png"
+      },
+      {
+        "description": "Sizing diagram showing door dimensions and measurements",
+        "relevance": "Technical drawing showing width and height measurements for installation planning",
+        "vlm_coords_pct": [
+          5,
+          68,
+          28,
+          90
+        ],
+        "actual_bbox": [
+          82,
+          867,
+          462,
+          1147
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_3_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 3,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Smooth Steel Entry Door with Clear Glass in a FrameSaver Frame. The document provides detailed specifications, pricing, sizing, handing orientation, and energy performance ratings for a single entry door order.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 84\" nominal size",
+      "Door Style: 350 Style 20-Gauge Smooth Steel Door with Clear Glass and ComforTech DC",
+      "Color: Pistachio Inside and Outside with Textured Sandpiper Beige Aluminum Frame Cladding",
+      "Hardware: All Black Finish including Plymouth Grip Entrance Handle Outside, Georgian Handle Inside, Thumbturn Deadbolt",
+      "Frame: Bronze ZAC Auto-Adjusting Threshold (5 5/8\" Depth), Black Ball Bearing Hinges, Security Plate",
+      "Handing: Right Hand Inswing - Inside Looking Out",
+      "Energy Performance: U-Factor 0.30, Solar Heat Gain Coefficient 0.19, Air Infiltration <= 0.04 cfm/ft2",
+      "Sell Price: $4,208.44 with Labor/Installation: $625.00, Total: $4,833.44",
+      "Order #14477018-1 for Job: Door 6 Lsg, Quantity: 1"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the entry door showing oval glass window design with decorative grid pattern on outside view and plain oval glass on inside view",
+        "relevance": "Shows the actual door design and appearance from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          5,
+          10,
+          75,
+          62
+        ],
+        "actual_bbox": [
+          72,
+          168,
+          1052,
+          1129
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_4_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagrams showing door dimensions for width and height measurements",
+        "relevance": "Provides precise dimensional specifications for installation planning",
+        "vlm_coords_pct": [
+          3,
+          65,
+          28,
+          90
+        ],
+        "actual_bbox": [
+          49,
+          828,
+          462,
+          1147
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_4_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 4,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Woodgrain Textured Steel Entry Door with Privacy Glass. The document details a single entry door in a FrameSaver Frame with dark mahogany finish, including sizing, handing configuration, energy performance ratings, hardware specifications, and pricing information.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 84\" nominal size",
+      "Door style: 350 Style 20-Gauge Woodgrain Textured Steel with ComforTech DLA-UV Obscure Privacy Glass",
+      "Finish: Dark Mahogany inside and outside with plugged trim",
+      "Hardware: Black finish with Plymouth Grip Entrance Handle (outside), Georgian Handle (inside), Thumbturn Deadbolt",
+      "Frame: Textured Tudor Brown Aluminum Frame Cladding with Bronze ZAC Auto-Adjusting Threshold",
+      "Right Hand Inswing - Inside Looking Out configuration",
+      "Energy ratings: U-Factor 0.24, Solar Heat Gain Coefficient 0.07, Visible Transmittance 0.15, Air Infiltration <= 0.04 cfm/ft2",
+      "Sell Price: $5,872.56, Labor/Installation: $625.00, Total: $6,497.56",
+      "Order #14477066-1, Job: Door 8 Lstg, Quantity: 1"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the dark mahogany steel entry door with oval privacy glass insert",
+        "relevance": "Shows the actual product appearance from both exterior and interior perspectives, displaying the woodgrain texture, glass design, and hardware placement",
+        "vlm_coords_pct": [
+          5,
+          10,
+          70,
+          62
+        ],
+        "actual_bbox": [
+          72,
+          168,
+          1052,
+          1129
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_5_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagram showing door dimensions and measurements",
+        "relevance": "Provides detailed dimensional specifications for installation including width, height, and frame measurements",
+        "vlm_coords_pct": [
+          5,
+          64,
+          30,
+          88
+        ],
+        "actual_bbox": [
+          82,
+          816,
+          495,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_5_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 5,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Smooth Steel Entry Door with Privacy Glass. This is a professional-class door product quote showing detailed specifications, sizing, handing instructions, energy performance ratings, and pricing information for Order #14477063-1.",
+    "key_points": [
+      "Legacy Single Entry Door in FrameSaver Frame - 36\" x 84\" Nominal Size",
+      "2 Panel 240 Style 20-Gauge Smooth Steel Door with ComforTech DC (Obscure Privacy Glass)",
+      "Pistachio color inside and outside",
+      "Right Hand Inswing - Inside Looking Out",
+      "All hardware in Black Finish including Plymouth Grip Entrance Handle Outside and Georgian Handle Inside",
+      "Textured Sandpiper Beige Aluminum Frame Cladding with Pistachio Inside Frame",
+      "Energy Performance: U-Factor 0.30, Solar Heat Gain Coefficient 0.19, Air Infiltration <= 0.04 cfm/ft2",
+      "Sell Price: $4,596.33 with Labor/Installation: $625.00 for Total: $5,221.33",
+      "Bronze ZAC Auto-Adjusting Threshold (5 5/8\" Depth) with Black Ball Bearing Hinges and Security Plate"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the entry door showing the pistachio-colored steel door with privacy glass panels at the top",
+        "relevance": "Shows the actual appearance of the door product from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          5,
+          10,
+          70,
+          65
+        ],
+        "actual_bbox": [
+          72,
+          168,
+          1052,
+          1129
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_6_img_1.png"
+      },
+      {
+        "description": "Energy performance ratings panel showing U-Factor, Solar Heat Gain Coefficient, Visible Transmittance, and Air Infiltration values",
+        "relevance": "Documents the energy efficiency specifications and compliance ratings for the door",
+        "vlm_coords_pct": [
+          55,
+          67,
+          78,
+          95
+        ],
+        "actual_bbox": [
+          907,
+          854,
+          1287,
+          1211
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_6_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 6,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Woodgrain Textured Steel Entry Door in FrameSaver Frame, showing detailed product information, pricing, dimensions, hardware specifications, and energy performance ratings.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 84\" Nominal Size",
+      "Order #14477102-1, Quantity: 1",
+      "Door Style: 006 Style 20-Gauge Woodgrain Textured Steel Door in Dark Mahogany",
+      "Right Hand Inswing - Inside Looking Out configuration",
+      "Hardware: Lifetime Bright Brass Finish with Plymouth Grip Entrance Handle Outside and Georgian Handle Inside",
+      "Frame: Textured Tudor Brown Aluminum Frame Cladding with Dark Mahogany Inside Frame",
+      "Energy Star Certified in All 50 States with U-Factor 0.17 and Solar Heat Gain Coefficient 0.01",
+      "Sell Price: $3,522.18, Labor/Installation: $625.00, Total: $4,147.18",
+      "Unit Size: 37 9/16\" x 85 11/16\", Frame Depth: 4 9/16\"",
+      "Includes Bronze ZAC Auto-Adjusting Threshold and Zinc Chromate Ball Bearing Hinges"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the dark mahogany woodgrain textured steel entry door showing the 6-panel design",
+        "relevance": "Shows the actual appearance of the door product from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          3,
+          9,
+          62,
+          62
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1163
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_7_img_1.png"
+      },
+      {
+        "description": "Sizing diagram showing door dimensions and measurements for width and height",
+        "relevance": "Technical specifications for proper installation and fit verification",
+        "vlm_coords_pct": [
+          3,
+          65,
+          25,
+          88
+        ],
+        "actual_bbox": [
+          49,
+          828,
+          412,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_7_img_2.png"
+      },
+      {
+        "description": "Energy performance ratings panel with U-Factor, Solar Heat Gain Coefficient, and Energy Star certification",
+        "relevance": "Documents energy efficiency credentials and certifications for the door",
+        "vlm_coords_pct": [
+          48,
+          65,
+          72,
+          95
+        ],
+        "actual_bbox": [
+          792,
+          828,
+          1188,
+          1211
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_7_img_3.png"
+      }
+    ]
+  },
+  {
+    "page_num": 7,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Woodgrain Textured Steel Entry Door with Privacy Glass. This is a professional-class door product quote showing detailed specifications, sizing, handing, energy ratings, and pricing information.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 84\" Nominal Size",
+      "4 Panel 419 Style 20-Gauge Woodgrain Textured Steel Door with Dark Mahogany finish",
+      "ComforTech DLA-UV with Obscure Privacy Glass",
+      "Right Hand Inswing - Inside Looking Out configuration",
+      "Hardware: Lifetime Bright Brass Finish with Plymouth Grip Entrance Handle and Thumbturn Deadbolt",
+      "Frame: Textured Tudor Brown Aluminum Frame Cladding with Bronze ZAC Auto-Adjusting Threshold",
+      "Energy Performance: U-Factor 0.22, Solar Heat Gain Coefficient 0.04, ENERGY STAR Certified in All 50 States",
+      "Total Price: $5,559.04 (Sell Price $4,934.04 + Labor/Installation $625.00)",
+      "Order #14477111-1, Job: Door 10 Lstg, Qty: 1"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the dark mahogany steel entry door with privacy glass panels at top",
+        "relevance": "Shows the actual product appearance from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          3,
+          10,
+          62,
+          62
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1144
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_8_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagram showing door dimensions and measurements",
+        "relevance": "Provides detailed width and height measurements for installation",
+        "vlm_coords_pct": [
+          3,
+          65,
+          28,
+          88
+        ],
+        "actual_bbox": [
+          49,
+          828,
+          462,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_8_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 8,
+    "page_summary": "Product specification sheet for a ProVia Heritage Smooth Fiberglass Entry Door, showing detailed product information, pricing, dimensions, energy ratings, and installation details for Order #14477173-1.",
+    "key_points": [
+      "Heritage Single Entry Door in PermaTech Composite Frame",
+      "36\" x 84\" Nominal Size with Unit Size 37 9/16\" x 85 11/16\"",
+      "Right Hand Inswing - Inside Looking Out configuration",
+      "006 Style Heritage Smooth Fiberglass Door in Rustic Bronze finish",
+      "Hardware: Satin Nickel finish with Camelot Grip Entrance Handle and Thumbturn Deadbolt",
+      "Textured Rustic Bronze Aluminum Frame Cladding",
+      "Sell Price: $3,245.51 with Labor/Installation: $625.00 for Total: $3,870.51",
+      "ENERGY STAR Certified in All 50 States",
+      "U-Factor: 0.12, Solar Heat Gain Coefficient: 0.01",
+      "Air Infiltration: <= 0.03 cfm/ft2",
+      "Additional height over standard 80 added to bottom rail"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the Heritage Smooth Fiberglass Entry Door showing a dark bronze/brown colored door with 6-panel design",
+        "relevance": "Shows the actual product appearance from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          3,
+          8,
+          68,
+          60
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1162
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_9_img_1.png"
+      },
+      {
+        "description": "Energy performance ratings panel showing U-Factor, Solar Heat Gain Coefficient, Visible Transmittance, Air Infiltration values and ENERGY STAR certification badge",
+        "relevance": "Documents energy efficiency credentials and certifications for the door",
+        "vlm_coords_pct": [
+          50,
+          62,
+          75,
+          95
+        ],
+        "actual_bbox": [
+          1124,
+          864,
+          1580,
+          947
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_9_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 9,
+    "page_summary": "Product specification sheet for a ProVia Heritage Smooth Fiberglass Entry Door with Privacy Glass, showing detailed product information, pricing, dimensions, energy ratings, and visual representations of the door from both outside and inside views.",
+    "key_points": [
+      "Product: Heritage Single Entry Door in PermaTech Composite Frame",
+      "Nominal Size: 36\" x 80\"",
+      "Unit Size: 37 9/16\" x 81 11/16\"",
+      "Frame Depth: 4 9/16\"",
+      "Door Style: 112 Style Heritage Smooth Fiberglass Door with ComforTech DC Waterfall Privacy Glass",
+      "Hardware: Antique Brass Finish with Camelot Grip Entrance Handle Outside, Thumbturn Deadbolt",
+      "Frame: Textured Rustic Bronze Aluminum Frame Cladding",
+      "Right Hand Inswing - Inside Looking Out",
+      "Energy Performance: U-Factor 0.24, Solar Heat Gain Coefficient 0.19",
+      "Sell Price: $4,306.09",
+      "Labor/Installation: $625.00",
+      "Total Price: $4,931.09",
+      "Order #14477228-1, Job: Door 13 Hfg, Qty: 1"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the Heritage Smooth Fiberglass Entry Door showing the rustic bronze finish and privacy glass panel design",
+        "relevance": "Primary product visualization showing both exterior and interior appearance of the door being quoted",
+        "vlm_coords_pct": [
+          5,
+          8,
+          75,
+          60
+        ],
+        "actual_bbox": [
+          72,
+          168,
+          1052,
+          1129
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_10_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagrams showing door width and height dimensions with measurement callouts",
+        "relevance": "Critical installation dimensions for the door unit",
+        "vlm_coords_pct": [
+          3,
+          62,
+          30,
+          88
+        ],
+        "actual_bbox": [
+          49,
+          790,
+          495,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_10_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 10,
+    "page_summary": "ProVia professional product specification sheet for a Heritage Smooth Fiberglass Entry Door, showing detailed product information, sizing, handing configuration, energy ratings, and pricing for Order #14477215-1.",
+    "key_points": [
+      "Heritage Single Entry Door in PermaTech Composite Frame",
+      "36\" x 80\" Nominal Size with Unit Size 37 9/16\" x 81 11/16\"",
+      "Right Hand Inswing - Inside Looking Out configuration",
+      "Rustic Bronze finish inside and outside",
+      "Camelot Grip Entrance Handle with Antique Brass hardware finish",
+      "ENERGY STAR Certified in All 50 States",
+      "U-Factor: 0.12, Solar Heat Gain Coefficient: 0.01",
+      "Sell Price: $3,245.51 with Labor/Installation: $625.00",
+      "Total Price: $3,870.51",
+      "Frame Depth: 4 9/16\" with 2\" PermaTech Brickmold"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the Heritage Smooth Fiberglass Entry Door showing rustic bronze finish with decorative panels",
+        "relevance": "Primary product visualization showing both exterior and interior appearance of the door being ordered",
+        "vlm_coords_pct": [
+          5,
+          10,
+          70,
+          60
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1144
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_11_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_num": 11,
+    "page_summary": "Product specification sheet for a ProVia Heritage Smooth Fiberglass Entry Door with Clear Glass. This is a professional-class door product quote showing detailed specifications, sizing, handing configuration, energy ratings, and pricing information for Order #14477258-1.",
+    "key_points": [
+      "Heritage Single Entry Door in PermaTech Composite Frame, 36\" x 80\" nominal size",
+      "Mountain Berry Red color inside and outside",
+      "Right Hand Inswing configuration - Inside Looking Out",
+      "Clear Glass with ComforTech DLA-UV",
+      "All hardware in Antique Brass Finish with Camelot Grip Entrance Handle",
+      "ENERGY STAR Certified in All 50 States",
+      "U-Factor: 0.19, Solar Heat Gain Coefficient: 0.07",
+      "Sell Price: $4,175.89, Labor/Installation: $625.00, Total: $4,800.89",
+      "Frame Depth: 4 9/16\" with 2\" PermaTech Brickmold",
+      "Mill Finish ZAI Adjustable Threshold (5 5/8\" Depth)"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the Heritage fiberglass entry door in Mountain Berry Red color with clear glass panels",
+        "relevance": "Shows the actual product appearance from both exterior and interior perspectives, displaying the door style, glass configuration, and color",
+        "vlm_coords_pct": [
+          3,
+          10,
+          70,
+          60
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1144
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_12_img_1.png"
+      }
+    ]
+  },
+  {
+    "page_num": 12,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Smooth Steel Entry Door, showing detailed product information, dimensions, energy ratings, and pricing for a professional-class single entry door in a FrameSaver Frame.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame",
+      "Nominal Size: 36\" x 80\"",
+      "Unit Size: 37 9/16\" x 81 11/16\"",
+      "Frame Depth: 4 9/16\" with 2\" Standard Brickmold",
+      "Door Style: 003 Style 20-Gauge Smooth Steel with High-Definition Embossing",
+      "Color: Snow Mist White Inside and Outside",
+      "Hardware: Black Hoppe Dallas Lever (1 3/4\" Backset), Key Order Alike",
+      "Handing: Right Hand Inswing - Inside Looking Out",
+      "Frame: Textured Snow Mist White Aluminum Frame Cladding with Bronze ZAC Auto-Adjusting Threshold",
+      "Energy Star Certified in All 50 States",
+      "U-Factor: 0.17, Solar Heat Gain Coefficient: 0.01",
+      "Sell Price: $2,903.73, Labor/Installation: $625.00, Total: $3,528.73",
+      "Order #14476882-1, Qty: 1"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the steel entry door showing the panel design with two raised panels",
+        "relevance": "Shows the actual appearance of the door product from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          5,
+          12,
+          62,
+          58
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1144
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_13_img_1.png"
+      },
+      {
+        "description": "Energy performance ratings panel with Energy Star certification logo",
+        "relevance": "Documents energy efficiency credentials and performance metrics",
+        "vlm_coords_pct": [
+          48,
+          60,
+          72,
+          92
+        ],
+        "actual_bbox": [
+          792,
+          765,
+          1188,
+          1173
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_13_img_2.png"
+      }
+    ]
+  },
+  {
+    "page_num": 13,
+    "page_summary": "Product specification sheet for a ProVia Legacy 20-Gauge Smooth Steel Entry Door in FrameSaver Frame. The document details a professional-class entry door with Evergreen color finish, including pricing, dimensions, hardware specifications, energy ratings, and installation details.",
+    "key_points": [
+      "Product: Legacy Single Entry Door in FrameSaver Frame, 36\" x 80\" nominal size",
+      "Order #14502524-1, Quantity: 1",
+      "Door style: 002C-437 Style 20-Gauge Smooth Steel with High-Definition Embossing",
+      "Color: Evergreen Inside and Outside",
+      "Hardware: Satin Nickel Hoppe Dallas Lever (1 3/4\" Backset), Key Order Alike",
+      "Frame: Textured Evergreen Aluminum Frame Cladding with Bronze ZAC Auto-Adjusting Threshold",
+      "Right Hand Inswing - Inside Looking Out",
+      "Sell Price: $2,903.73, Labor/Installation: $625.00, Total: $3,528.73",
+      "Energy Star Certified in All 50 States",
+      "U-Factor: 0.17, Solar Heat Gain Coefficient: 0.01",
+      "Air Infiltration: <= 0.04 cfm/ft2"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the Evergreen steel entry door showing the door design with decorative arched panel at top",
+        "relevance": "Shows the actual appearance of the door product from both exterior and interior perspectives",
+        "vlm_coords_pct": [
+          3,
+          10,
+          62,
+          62
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1144
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_14_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagram showing door dimensions including width (36 1/16\", 37 9/16\", 38\") and height (81 11/16\", 82 1/16\", 80 15/16\", 83 1/16\") measurements",
+        "relevance": "Provides critical dimensional information for installation planning",
+        "vlm_coords_pct": [
+          3,
+          64,
+          25,
+          90
+        ],
+        "actual_bbox": [
+          49,
+          816,
+          412,
+          1147
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_14_img_2.png"
+      },
+      {
+        "description": "Energy performance ratings panel showing U-Factor, Solar Heat Gain Coefficient, Visible Transmittance, Air Infiltration values and Energy Star certification badge",
+        "relevance": "Documents energy efficiency credentials and certifications for the door",
+        "vlm_coords_pct": [
+          45,
+          64,
+          70,
+          98
+        ],
+        "actual_bbox": [
+          742,
+          816,
+          1155,
+          1249
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_14_img_3.png"
+      }
+    ]
+  },
+  {
+    "page_num": 14,
+    "page_summary": "Product specification sheet for a ProVia Heritage Smooth Fiberglass Entry Door with Clear Glass, showing detailed specifications, pricing, sizing, energy ratings, and visual representations of the door from both outside and inside views.",
+    "key_points": [
+      "Product: Heritage Single Entry Door in PermaTech Composite Frame",
+      "Nominal Size: 36\" x 80\", Unit Size: 37 9/16\" x 81 11/16\"",
+      "Frame Depth: 4 9/16\" with 2\" PermaTech Brickmold",
+      "Right Hand Inswing - Inside Looking Out configuration",
+      "1 Panel 440 Style Heritage Smooth Fiberglass Door with Clear Glass and ComforTech DLA-UV",
+      "Hardware: Antique Brass Finish with Camelot Grip Entrance Handle Outside, Thumbturn Deadbolt",
+      "Frame: Textured Cafe Cream Aluminum Frame Cladding with Desert Inside Frame",
+      "Energy Performance: U-Factor 0.20, Solar Heat Gain Coefficient 0.09, Visible Transmittance 0.21",
+      "ENERGY STAR Certified in All 50 States",
+      "Sell Price: $4,468.84, Labor/Installation: $625.00, Total: $5,093.84",
+      "Order #14477318-1, Quantity: 1",
+      "Job: Door 15 Hfg"
+    ],
+    "images": [
+      {
+        "description": "Outside and inside views of the Heritage fiberglass entry door showing the door design with clear glass panel, desert/cafe cream color scheme, and hardware placement",
+        "relevance": "Primary product visualization showing both exterior and interior appearance of the door being quoted",
+        "vlm_coords_pct": [
+          5,
+          12,
+          62,
+          58
+        ],
+        "actual_bbox": [
+          74,
+          168,
+          1054,
+          1144
+        ],
+        "is_cluster": true,
+        "saved_path": "output/products/2/images/page_15_img_1.png"
+      },
+      {
+        "description": "Technical sizing diagram showing door dimensions and measurements for width and height from different reference points",
+        "relevance": "Critical installation and ordering information showing exact measurements",
+        "vlm_coords_pct": [
+          5,
+          62,
+          25,
+          88
+        ],
+        "actual_bbox": [
+          82,
+          790,
+          412,
+          1122
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_15_img_2.png"
+      },
+      {
+        "description": "Energy performance ratings panel showing U-Factor, Solar Heat Gain Coefficient, Visible Transmittance, Air Infiltration values and ENERGY STAR certification",
+        "relevance": "Documents energy efficiency credentials and certifications for the door",
+        "vlm_coords_pct": [
+          45,
+          62,
+          70,
+          92
+        ],
+        "actual_bbox": [
+          742,
+          790,
+          1155,
+          1173
+        ],
+        "is_cluster": false,
+        "saved_path": "output/products/2/images/page_15_img_3.png"
+      }
+    ]
+  }
+]
