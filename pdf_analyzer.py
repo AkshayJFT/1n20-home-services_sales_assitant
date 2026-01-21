@@ -19,7 +19,7 @@ from openai import OpenAI
 from typing import List, Dict, Optional
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(override=True)
 
 # Image optimization settings
 MAX_IMAGE_WIDTH = 1400  # Max width in pixels

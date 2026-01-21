@@ -1346,6 +1346,9 @@ if __name__ == "__main__":
         uvicorn.run(app, host="0.0.0.0", port=8000)
     else:
         cert_file, key_file = generate_self_signed_cert()
-        print("Open https://localhost:8000 in your browser")
+        print("Open http://localhost:8000 in your browser")
         print("NOTE: You'll need to accept the self-signed certificate warning in your browser.")
         uvicorn.run(app, host="0.0.0.0", port=8000, ssl_certfile=cert_file, ssl_keyfile=key_file)
+        # print("Open http://localhost:8000 in your browser")
+        # print("WARNING: Microphone access requires HTTPS. Use without --no-ssl for voice features.")
+        # uvicorn.run(app, host="0.0.0.0", port=8000)

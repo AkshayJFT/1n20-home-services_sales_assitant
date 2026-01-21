@@ -862,7 +862,7 @@ async function handleSection(data) {
     updateThumbnails();
 
     if (AppState.currentImages.length > 0) {
-        displayImage(AppState.currentImages[0], 0);
+        displayImagesGrid(AppState.currentImages, 0);
     }
 
     // Don't play TTS if presentation is paused OR chat is active
@@ -1165,7 +1165,7 @@ function playAudioWithTextSync(base64Audio) {
     elements.audioPlayer.onloadedmetadata = () => {
         AppState.audioDuration = elements.audioPlayer.duration;
         scheduleWordStreaming();
-        scheduleImageChanges();
+        // Grid display - no image cycling needed
     };
 
     elements.audioPlayer.play();
@@ -1369,11 +1369,26 @@ function displayImage(imagePath, index) {
         elements.imageDisplay.appendChild(mainImg);
     });
 
-    bgImg.onerror = (e) => console.error('Failed to load bg image:', imageUrl, e);
-    mainImg.onerror = (e) => {
-        console.error('Failed to load main image:', imageUrl, e);
+    bgImg.onerror = () => {}; // Silently fail for background blur
+    mainImg.onerror = () => {
+        console.log(`[Image] Failed to load (deleted?): ${imageUrl}, skipping to next`);
+
+        // Remove this failed image from the array
+        AppState.currentImages.splice(index, 1);
+
+        // Remove loading indicator
         if (loadingDiv && loadingDiv.parentNode) {
-            loadingDiv.innerHTML = '<div class="image-error"><i class="fas fa-exclamation-triangle"></i></div><p>Failed to load image</p>';
+            loadingDiv.remove();
+        }
+
+        // Try to show next image
+        if (AppState.currentImages.length > 0) {
+            // Adjust index if needed
+            const nextIndex = index < AppState.currentImages.length ? index : 0;
+            displayImage(AppState.currentImages[nextIndex], nextIndex);
+        } else {
+            // No images left, show placeholder
+            resetImageDisplay();
         }
     };
 
@@ -1419,7 +1434,30 @@ function displayImagesGrid(images, activeIndex = 0) {
     }
 
     // Add images to grid
-    images.slice(0, 6).forEach((imagePath, index) => {
+    const imageList = images.slice(0, 6);
+    const totalImages = imageList.length;
+    let loadedCount = 0;
+    let failedCount = 0;
+
+    const updateCounter = () => {
+        const visible = loadedCount;
+        if (visible > 0) {
+            elements.imageCounter.textContent = `${visible} image${visible > 1 ? 's' : ''}`;
+            // Update grid class based on visible images
+            grid.className = 'image-grid';
+            if (visible === 1) grid.classList.add('grid-1');
+            else if (visible === 2) grid.classList.add('grid-2');
+            else if (visible === 3) grid.classList.add('grid-3');
+            else if (visible === 4) grid.classList.add('grid-4');
+            else if (visible === 5) grid.classList.add('grid-5');
+            else grid.classList.add('grid-many');
+        } else if (loadedCount + failedCount === totalImages) {
+            // All images processed and none loaded - show placeholder
+            resetImageDisplay();
+        }
+    };
+
+    imageList.forEach((imagePath, index) => {
         const imageUrl = normalizeImagePath(imagePath);
 
         const gridItem = document.createElement('div');
@@ -1432,6 +1470,19 @@ function displayImagesGrid(images, activeIndex = 0) {
         img.loading = 'eager';
         img.decoding = 'async';
 
+        // Hide grid item if image fails to load (deleted)
+        img.onerror = () => {
+            console.log(`[Grid] Image failed to load (deleted?): ${imageUrl}`);
+            gridItem.style.display = 'none';
+            failedCount++;
+            updateCounter();
+        };
+
+        img.onload = () => {
+            loadedCount++;
+            updateCounter();
+        };
+
         const numberBadge = document.createElement('span');
         numberBadge.className = 'grid-image-number';
         numberBadge.textContent = index + 1;
@@ -1441,8 +1492,8 @@ function displayImagesGrid(images, activeIndex = 0) {
         grid.appendChild(gridItem);
     });
 
-    // Update counter
-    elements.imageCounter.textContent = `${images.length} images`;
+    // Counter will be updated by onload/onerror handlers
+    elements.imageCounter.textContent = 'Loading...';
     elements.imageCounter.style.opacity = '1';
 }
 
@@ -1569,8 +1620,8 @@ function displayReferenceImagesInPanel(references) {
     AppState.referenceImages = allImages;
     AppState.currentImageIndex = 0;
 
-    // Display first image only (one-by-one, timed by chat audio duration)
-    displayImage(AppState.currentImages[0], 0);
+    // Display all images in a grid
+    displayImagesGrid(AppState.currentImages, 0);
 
     elements.imageCounter.textContent = `${allImages.length} image${allImages.length > 1 ? 's' : ''} from references`;
     elements.imageCounter.style.opacity = '1';
@@ -1879,16 +1930,12 @@ async function speakChatResponse(text, messageElement = null) {
             AppState.currentChatMessage = messageElement;
             AppState.currentChatText = text;
 
-            // Get audio duration and schedule image changes when metadata loads
+            // Get audio duration (for logging)
             elements.chatAudioPlayer.onloadedmetadata = () => {
                 const duration = elements.chatAudioPlayer.duration;
                 AppState.chatAudioDuration = duration;
                 console.log(`[Chat TTS] Audio duration: ${duration.toFixed(2)}s`);
-
-                // Schedule image cycling if we have reference images
-                if (AppState.currentImages.length > 1) {
-                    scheduleChatImageChanges(duration);
-                }
+                // Grid display - all images shown at once
             };
 
             elements.chatAudioPlayer.play();
